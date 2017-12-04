@@ -1,2 +1,3 @@
 scrape: $(PY_SENTINAL)
-	$(VE)/bin/scrapy
+	cd scrape/histology \
+	&& ../../$(VE)/bin/scrapy crawl histology

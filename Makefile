@@ -39,7 +39,7 @@ flake8: $(PY_SENTINAL)
 	#mv $< $@ \
 	#&& ./checkjson.py
 
-all: $(PY_SENTINAL) $(PUBLIC)/js/all.json
+#all: $(PY_SENTINAL) $(PUBLIC)/js/all.json
 	
 clean:
 	rm -rf ve
