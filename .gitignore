@@ -7,4 +7,4 @@ scratch/
 .ropeproject
 *.pyc
 ve/
-*.swp
+scrape/histology/content/
