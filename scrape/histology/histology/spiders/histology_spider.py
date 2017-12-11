@@ -58,11 +58,15 @@ class HistologySpider(scrapy.Spider):
             os.makedirs(path)
 
         filename = os.path.join(path, title)
+
+        lab_topic = response.url.split('/')[-1]
+        lab_topic_number = int(re.search(r'\d{2}', lab_topic).group(0))
         with open(filename, 'w') as f:
             f.write('---')
             f.write('title: {}\n'.format(title))
             f.write('date: {}\n'.format(datetime.date.today().isoformat()))
             f.write('type: lab_topic\n')
+            f.write('lab_topic_number: {}\n'.format(lab_topic_number))
             f.write('weight: \n')
             f.write('---\n')
 
@@ -74,12 +78,15 @@ class HistologySpider(scrapy.Spider):
             os.makedirs(path)
 
         filename = os.path.join(path, title)
+
+        lab_topic = response.url.split('/')[-2]
+        lab_topic_number = int(re.search(r'\d{2}', lab_topic).group(0))
         with open(filename, 'w') as f:
             f.write('---\n')
             f.write('title: {}\n'.format(title))
             f.write('date: {}\n'.format(datetime.date.today().isoformat()))
             f.write('type: lab_activity\n')
-            f.write('lab_topic_number: ')
+            f.write('lab_topic_number: {}\n'.format(lab_topic_number))
             f.write('weight: \n')
             f.write('---\n')
             f.write(response.css('.entrybody').extract_first())
