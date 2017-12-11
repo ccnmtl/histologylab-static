@@ -3,6 +3,7 @@ from scrapy.linkextractors import LinkExtractor
 import re
 import os
 import unicodedata
+import datetime
 
 
 def slugify(value):
@@ -58,7 +59,12 @@ class HistologySpider(scrapy.Spider):
 
         filename = os.path.join(path, title)
         with open(filename, 'w') as f:
-            f.write(title)
+            f.write('---')
+            f.write('title: {}\n'.format(title))
+            f.write('date: {}\n'.format(datetime.date.today().isoformat()))
+            f.write('type: lab_topic\n')
+            f.write('weight: \n')
+            f.write('---\n')
 
     def render_lab_activity(self, response):
         title = slugify(response.css('.entrytitle::text')
@@ -69,7 +75,14 @@ class HistologySpider(scrapy.Spider):
 
         filename = os.path.join(path, title)
         with open(filename, 'w') as f:
-            f.write(title)
+            f.write('---\n')
+            f.write('title: {}\n'.format(title))
+            f.write('date: {}\n'.format(datetime.date.today().isoformat()))
+            f.write('type: lab_activity\n')
+            f.write('lab_topic_number: ')
+            f.write('weight: \n')
+            f.write('---\n')
+            f.write(response.css('.entrybody').extract_first())
 
     def render_hist_technique(self, response):
         title = slugify(response.css('.entrytitle::text')
@@ -80,7 +93,13 @@ class HistologySpider(scrapy.Spider):
 
         filename = os.path.join(path, title)
         with open(filename, 'w') as f:
-            f.write(title)
+            f.write('---')
+            f.write('title: {}\n'.format(title))
+            f.write('date: {}\n'.format(datetime.date.today().isoformat()))
+            f.write('type: histology_technique\n')
+            f.write('weight: \n')
+            f.write('---\n')
+            f.write(response.css('.entrybody').extract_first())
 
     def render_page(self, response):
         title = slugify(response.css('.pagetitle::text')
@@ -91,4 +110,9 @@ class HistologySpider(scrapy.Spider):
 
         filename = os.path.join(path, title)
         with open(filename, 'w') as f:
-            f.write(title)
+            f.write('---\n')
+            f.write('title: {}\n'.format(title))
+            f.write('date: {}\n'.format(datetime.date.today().isoformat()))
+            f.write('type: page\n')
+            f.write('---\n')
+            f.write(response.css('.entrybody').extract_first())
