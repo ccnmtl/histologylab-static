@@ -17,6 +17,9 @@ runserver:
 	&& $(INTERMEDIATE_STEPS) \
 	&& $(HUGO) server --watch $(DRAFT_FLAGS) --pluralizeListTitles=false
 
+build-scss:
+	npm run build-scss
+
 deploy-stage:
 	rm -rf $(PUBLIC)/*
 	$(HUGO) $(PROD_FLAGS) -b '$(STAGING_URL)'  --pluralizeListTitles=false \
