@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://histologylab.ctl.columbia.edu/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Histology Lab Manual"
 theme = "ctl-histologylab"
