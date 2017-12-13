@@ -29,7 +29,7 @@ $(PY_SENTINAL): $(REQUIREMENTS) $(VIRTUALENV) $(SUPPORT_DIR)*
 flake8: $(PY_SENTINAL)
 	$(FLAKE8) $(PY_DIRS) --max-complexity=$(MAX_COMPLEXITY)
 
-build-scss:
+build-scss: $(JS_SENTINAL)
 	npm run build-scss
 
 clean:
