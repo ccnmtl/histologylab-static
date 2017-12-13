@@ -12,12 +12,6 @@ SCRIPT_FILE ?= convert.py
 MAX_COMPLEXITY ?= 10
 PY_DIRS ?= *.py tests --exclude virtualenv.py
 
-#STAGING_URL=https://histologylab-static.stage.ctl.columbia.edu/
-#PROD_URL=https://histologylab.ctl.columbia.edu/
-#STAGING_BUCKET=histologylab-static.stage.ctl.columbia.edu
-#PROD_BUCKET=histologylab.ctl.columbia.edu
-#INTERMEDIATE_STEPS ?= make $(PUBLIC)/js/all.json
-
 JS_FILES=themes/ctl-histologylab/static/js/
 
 all: eslint
@@ -35,12 +29,9 @@ $(PY_SENTINAL): $(REQUIREMENTS) $(VIRTUALENV) $(SUPPORT_DIR)*
 flake8: $(PY_SENTINAL)
 	$(FLAKE8) $(PY_DIRS) --max-complexity=$(MAX_COMPLEXITY)
 
-#$(PUBLIC)/js/all.json: $(PUBLIC)/json/all/index.html
-	#mv $< $@ \
-	#&& ./checkjson.py
+build-scss: $(JS_SENTINAL)
+	npm run build-scss
 
-#all: $(PY_SENTINAL) $(PUBLIC)/js/all.json
-	
 clean:
 	rm -rf ve
 
