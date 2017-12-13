@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch-scss": "node-sass --output static/css static/scss && postcss -u autoprefixer -r static/css/main.css",
+    "watch-scss": "node-sass --output themes/ctl-histologylab/static/css themes/ctl-histologylab/static/scss && postcss -u autoprefixer -r themes/ctl-histologylab/static/css/main.css",
     "build-scss": "nodemon -e scss -x 'npm run watch-scss'"
   },
   "repository": {
