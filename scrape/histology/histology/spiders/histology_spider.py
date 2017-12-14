@@ -58,13 +58,14 @@ class HistologySpider(scrapy.Spider):
         path = 'content/'
         title = 'lab{:02d}'.format(lab_topic_number)
         with open(self.get_file_name(path, title), 'w') as f:
-            f.write('---')
+            f.write('---\n')
             f.write('title: "lab{:02d}"\n'.format(lab_topic_number))
             f.write('date: {}\n'.format(datetime.date.today().isoformat()))
             f.write('type: lab_topic\n')
             f.write('lab_topic_number: {}\n'.format(lab_topic_number))
             f.write('weight: \n')
             f.write('---\n')
+            f.write(response.css('.entrybody').extract_first(default=''))
 
     def render_lab_activity(self, response):
         title = response.css('.entrytitle::text').extract_first(default='index')
@@ -86,10 +87,10 @@ class HistologySpider(scrapy.Spider):
 
     def render_hist_technique(self, response):
         title = response.css('.entrytitle::text').extract_first(default='index')
-        path = 'content/histological_technique/'
+        path = 'content/histological_techniques/'
 
         with open(self.get_file_name(path, title), 'w') as f:
-            f.write('---')
+            f.write('---\n')
             f.write('title: "{}"\n'.format(title))
             f.write('date: {}\n'.format(datetime.date.today().isoformat()))
             f.write('type: histology_technique\n')
