@@ -1,7 +1,16 @@
+header {
+  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.75)), color-stop(60%, transparent)), url("../img/Parietal_cells.jpg");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.75), transparent 60%), url("../img/Parietal_cells.jpg");
+  background-position: center center;
+  background-size: cover;
+  padding-top: 3em; }
+  header h1 {
+    color: white; }
+
 h1 {
   color: red; }
 
 div {
   border: solid red 1px; }
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsV0FBVyxFQUFFOztBQUVmO0VBQ0Usc0JBQXNCLEVBQUUiLCJmaWxlIjoibWFpbi5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJoMSB7XG4gIGNvbG9yOiByZWQ7IH1cblxuZGl2IHtcbiAgYm9yZGVyOiBzb2xpZCByZWQgMXB4OyB9XG4iXX0= */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsNkpBQWdIO0VBQWhILGdIQUFnSDtFQUNoSCxtQ0FBbUM7RUFDbkMsdUJBQXVCO0VBQ3ZCLGlCQUFpQixFQUFFO0VBQ25CO0lBQ0UsYUFBYSxFQUFFOztBQUVuQjtFQUNFLFdBQVcsRUFBRTs7QUFFZjtFQUNFLHNCQUFzQixFQUFFIiwiZmlsZSI6Im1haW4uY3NzIiwic291cmNlc0NvbnRlbnQiOlsiaGVhZGVyIHtcbiAgYmFja2dyb3VuZC1pbWFnZTogbGluZWFyLWdyYWRpZW50KDBkZWcsIHJnYmEoMCwgMCwgMCwgMC43NSksIHRyYW5zcGFyZW50IDYwJSksIHVybChcIi4uL2ltZy9QYXJpZXRhbF9jZWxscy5qcGdcIik7XG4gIGJhY2tncm91bmQtcG9zaXRpb246IGNlbnRlciBjZW50ZXI7XG4gIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XG4gIHBhZGRpbmctdG9wOiAzZW07IH1cbiAgaGVhZGVyIGgxIHtcbiAgICBjb2xvcjogd2hpdGU7IH1cblxuaDEge1xuICBjb2xvcjogcmVkOyB9XG5cbmRpdiB7XG4gIGJvcmRlcjogc29saWQgcmVkIDFweDsgfVxuIl19 */
