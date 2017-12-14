@@ -1,19 +1,30 @@
 <div class="navbar-banner-ssnm d-print-none">
     <nav class="container navbar navbar-expand-md navbar-dark bg-default" itemscope itemtype="http://schema.org/SiteNavigationElement">
-        <a class="navbar-brand" href="{{ .Site.BaseURL }}" itemprop="url"><i class="fa fa-home" aria-hidden="true"></i> <span itemprop="name">Home</span> {{ if .IsHome }}<span class="sr-only">(current)</span>{{ end }}</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
-            <ul class="navbar-nav">
+            <ul class="nav">
                 <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "tutorial" }} active{{ end }}{{ end }}'>
-                    <a class="nav-link" itemprop="url" href="/map/tutorial/"><span itemprop="name">Tutorial</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "tutorial" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a>
+                    <a class="nav-link" itemprop="url" href="/"><span itemprop="name">Home</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "tutorial" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a>
                 </li>
                 <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "resources" }} active{{ end }}{{ end }}'>
-                    <a class="nav-link" itemprop="url" href="/map/resources/"><span itemprop="name">Resources</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "resources" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a>
+                    <a class="nav-link" itemprop="url" href="/lab_topics/"><span itemprop="name">Laboratory Topics</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "resources" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a>
                 </li>
                 <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} active{{ end }}{{ end }}'>
-                    <a class="nav-link" itemprop="url" href="/map/about/"><span itemprop="name">About SSNM</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a>
+                    <a class="nav-link" itemprop="url" href="/histological_techniques/"><span itemprop="name">Histological Techniques</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a>
+                </li>
+                <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} active{{ end }}{{ end }}'>
+                    <a class="nav-link" itemprop="url" href="/microscope/"><span itemprop="name">Microscope</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a>
+                </li>
+                <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} active{{ end }}{{ end }}'>
+                    <a class="nav-link" itemprop="url" href="/slide_index/"><span itemprop="name">Slide Index</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a>
+                </li>
+                <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} active{{ end }}{{ end }}'>
+                    <a class="nav-link" itemprop="url" href="/about/"><span itemprop="name">About</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a>
+                </li>
+                <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} active{{ end }}{{ end }}'>
+                    <a class="nav-link" itemprop="url" href="/help/"><span itemprop="name">Help</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a>
                 </li>
             </ul>
         </div>
