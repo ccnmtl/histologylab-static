@@ -2,4 +2,13 @@
 
 {{ partial "cover.html" . }}
 
+<h2>Lab Activities</h2>
+<ol>
+    {{ range ( where ( where .Site.Pages "Type" "lab_activity" ) "Params.lab_topic_number" .Params.lab_topic_number) }}
+    <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+</ol>
+
 {{ partial "footer.html" . }}
