@@ -28,6 +28,7 @@ class HistologySpider(scrapy.Spider):
     match_lab_topic = re.compile('/lab\d{2}/$')
     match_lab_activity = re.compile('/lab\d{2}/\w*.html$')
     match_hist_technique = re.compile('/histological_techniques/\w*.html$')
+    match_asset = re.compile('/assets_c/')
 
     def start_requests(self):
         urls = [
@@ -43,6 +44,8 @@ class HistologySpider(scrapy.Spider):
             self.render_lab_activity(response)
         elif (self.match_hist_technique.search(response.url)):
             self.render_hist_technique(response)
+        elif (self.match_asset.search(response.url)):
+            self.render_asset(response)
         else:
             self.render_page(response)
 
@@ -58,13 +61,14 @@ class HistologySpider(scrapy.Spider):
         path = 'content/'
         title = 'lab{:02d}'.format(lab_topic_number)
         with open(self.get_file_name(path, title), 'w') as f:
-            f.write('---')
+            f.write('---\n')
             f.write('title: "lab{:02d}"\n'.format(lab_topic_number))
             f.write('date: {}\n'.format(datetime.date.today().isoformat()))
             f.write('type: lab_topic\n')
             f.write('lab_topic_number: {}\n'.format(lab_topic_number))
             f.write('weight: \n')
             f.write('---\n')
+            f.write(response.css('.entrybody').extract_first(default=''))
 
     def render_lab_activity(self, response):
         title = response.css('.entrytitle::text').extract_first(default='index')
@@ -86,10 +90,10 @@ class HistologySpider(scrapy.Spider):
 
     def render_hist_technique(self, response):
         title = response.css('.entrytitle::text').extract_first(default='index')
-        path = 'content/histological_technique/'
+        path = 'content/histological_techniques/'
 
         with open(self.get_file_name(path, title), 'w') as f:
-            f.write('---')
+            f.write('---\n')
             f.write('title: "{}"\n'.format(title))
             f.write('date: {}\n'.format(datetime.date.today().isoformat()))
             f.write('type: histology_technique\n')
@@ -108,6 +112,19 @@ class HistologySpider(scrapy.Spider):
             f.write('type: page\n')
             f.write('---\n')
             f.write(response.css('.entrybody')
+                    .extract_first(default=response.url))
+
+    def render_asset(self, response):
+        # get the last part of the path and use as title
+        title = response.url.split('/')[-1][:-5]
+        path = 'content/' + '/'.join(response.url.split('/')[3:-1])
+        with open(self.get_file_name(path, title), 'w') as f:
+            f.write('---\n')
+            f.write('title: {}\n'.format(title))
+            f.write('date: {}\n'.format(datetime.date.today().isoformat()))
+            f.write('type: asset\n')
+            f.write('---\n')
+            f.write(response.css('img')
                     .extract_first(default=response.url))
 
     def get_file_name(self, path, title):
