@@ -1,5 +1,6 @@
 import scrapy
 from scrapy.linkextractors import LinkExtractor
+from w3lib.html import remove_tags
 import re
 import os
 import unicodedata
@@ -59,10 +60,12 @@ class HistologySpider(scrapy.Spider):
                      if re.search(r'lab\d{2}', t)]
         lab_topic_number = int(re.search(r'\d{2}', lab_topic[0]).group(0))
         path = 'content/'
-        title = 'lab{:02d}'.format(lab_topic_number)
-        with open(self.get_file_name(path, title), 'w') as f:
+        filename = 'lab{:02d}'.format(lab_topic_number)
+
+        title = remove_tags(response.css('.entrytitle').extract_first())
+        with open(self.get_file_name(path, filename), 'w') as f:
             f.write('---\n')
-            f.write('title: "lab{:02d}"\n'.format(lab_topic_number))
+            f.write('title: "{}"\n'.format(title))
             f.write('date: {}\n'.format(datetime.date.today().isoformat()))
             f.write('type: lab_topic\n')
             f.write('lab_topic_number: {}\n'.format(lab_topic_number))
@@ -71,7 +74,8 @@ class HistologySpider(scrapy.Spider):
             f.write(response.css('.entrybody').extract_first(default=''))
 
     def render_lab_activity(self, response):
-        title = response.css('.entrytitle::text').extract_first(default='index')
+        title = remove_tags(response.css('.entrytitle').extract_first(
+                                            default='lab_activity'))
 
         lab_topic = response.url.split('/')[-2]
         lab_topic_number = int(re.search(r'\d{2}', lab_topic).group(0))
@@ -89,7 +93,8 @@ class HistologySpider(scrapy.Spider):
             f.write(response.css('.entrybody').extract_first(default=''))
 
     def render_hist_technique(self, response):
-        title = response.css('.entrytitle::text').extract_first(default='index')
+        title = remove_tags(response.css('.entrytitle').extract_first(
+                                            default='hist_technique'))
         path = 'content/histological_techniques/'
 
         with open(self.get_file_name(path, title), 'w') as f:
@@ -102,7 +107,11 @@ class HistologySpider(scrapy.Spider):
             f.write(response.css('.entrybody').extract_first(default=''))
 
     def render_page(self, response):
-        title = response.css('.entrytitle::text').extract_first(default='index')
+        title = remove_tags(response.css('.entrytitle').extract_first(
+                                            default=''))
+        if (title == ''):
+            title = remove_tags(response.css('.pagetitle').extract_first(
+                                              default='page'))
         path = 'content/'
 
         with open(self.get_file_name(path, title), 'w') as f:
@@ -111,7 +120,7 @@ class HistologySpider(scrapy.Spider):
             f.write('date: {}\n'.format(datetime.date.today().isoformat()))
             f.write('type: page\n')
             f.write('---\n')
-            f.write(response.css('.entrybody')
+            f.write(response.css('.pagecontentbody')
                     .extract_first(default=response.url))
 
     def render_asset(self, response):
