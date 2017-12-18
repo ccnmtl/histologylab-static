@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 9
 lab_topic_name: "lab09"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						Use the image below as well as illustrations of the heart in your gross anatomy textbook or atlas to help you to orient your slide and to locate the atrium, ventricle and mitral valve.<br>

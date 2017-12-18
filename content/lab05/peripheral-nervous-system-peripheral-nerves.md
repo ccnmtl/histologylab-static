@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 5
 lab_topic_name: "lab05"
-weight: 
+weight: 4
 ---
 <div class="entrybody">
 						<h3><u>#80 Sciatic Nerve, 2 sections (Cajal)</u></h3>

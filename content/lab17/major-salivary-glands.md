@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 17
 lab_topic_name: "lab17"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<p>The major salivary glands (as well as the pancreas) are examples of exocrine glands, meaning the products of secretory cells are delivered via ducts to their functional site.  These glands are classified according to: (1) the organization of the cells in the secretory portion of the gland e.g. tubular, alveolar (synonymous with acinar) or tubulo-alveolar (both types are present), and (2) the configuration of the cells that form the excretory duct (or ducts).  If the duct is unbranched, the gland is called a simple gland.  If however, the duct branches the gland is known as a compound gland.</p>

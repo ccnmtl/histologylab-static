@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 6
 lab_topic_name: "lab06"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<p>Skeletal muscle is composed of large, cylindrical, multinucleated cells.  The most striking feature of skeletal muscle fibers is the presence of striations, which are visible in longitudinally sectioned fibers.  The striations are due to the presence of <u>myofibrils</u>, which are cylindrical bundles of thick and thin myofilaments, organized into units of contraction called <u>sarcomeres</u>.  The orderly arrangement of these repeating units within the myofibrils gives rise to the characteristic pattern of transverse banding. </p>

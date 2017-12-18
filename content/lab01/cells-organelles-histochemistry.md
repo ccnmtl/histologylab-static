@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 1
 lab_topic_name: "lab01"
-weight: 
+weight: 1
 ---
 <div class="entrybody">
 						<h3>#101 Small Intestine Periodic acid-Schiff (PAS) reaction and hematoxylin</h3>

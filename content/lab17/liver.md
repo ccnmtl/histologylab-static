@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 17
 lab_topic_name: "lab17"
-weight: 
+weight: 1
 ---
 <div class="entrybody">
 						<p>The liver is the largest gland in the body, and it has both an endocrine and exocrine function. The liver is organized into lobes surrounded by a thick connective tissue capsule. Each lobe is subdivided into lobules by looser connective tissue (Glisson's capsule). In the human, this connective tissue does not completely outline the lobule. It can be seen best in regions where there are sections of the bile duct and the hepatic artery. The structural plan of the liver is a reflection of its vascular supply. Blood enters the liver via the hepatic artery and portal vein, which send branches to the hepatic lobules. Within the lobules, blood travels between the plates of hepatic cells in sinusoids toward a central vein. It leaves the lobules via branches of the hepatic vein.</p>

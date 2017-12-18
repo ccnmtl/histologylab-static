@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 14
 lab_topic_name: "lab14"
-weight: 
+weight: 2
 ---
 <div class="entrybody">
 						<h3><u><b>#60 Seminal Vesicle, Adult, <span class="caps">H&amp;E</span></b></u></h3>

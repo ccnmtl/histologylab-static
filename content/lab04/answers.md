@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 4
 lab_topic_name: "lab04"
-weight: 
+weight: 6
 ---
 <div class="entrybody">
 						<h2>#6 External Ear (Elastin Stain)</h2>

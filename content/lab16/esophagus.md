@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 16
 lab_topic_name: "lab16"
-weight: 
+weight: 1
 ---
 <div class="entrybody">
 						<p>As in both the oral cavity and in the pharynx, the mucosal surface of the esophagus is lined by stratified squamous epithelium that is non-keratinized in humans. In herbivores, the esophagus has a keratinized epithelium. The well-developed muscularis externa and the stratified squamous epithelial lining are well adapted for the rapid transport of food from the pharynx to the stomach. Diagnostic features of the esophagus are the combination of stratified squamous surface epithelium and the considerable thickness of the muscularis mucosae (up to 0.2 - 0.4 mm thick).  The upper third of the muscularis externa contains mostly skeletal muscle, the middle third contains a mixture of skeletal and smooth, and the lower third contains only smooth muscle. </p>

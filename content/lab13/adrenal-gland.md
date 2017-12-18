@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 13
 lab_topic_name: "lab13"
-weight: 
+weight: 1
 ---
 <div class="entrybody">
 						<p>Each of the paired adrenal glands is in fact two glands.  The outer mesodermally derived <u>cortex</u> is composed of cells that secrete steroid hormones.  The neural crest-derived cells of the <u>medulla</u> are innervated by preganglionic fibers of the sympathetic nervous system and secrete catecholamines.  </p>

@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 3
 lab_topic_name: "lab03"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<p>This form of connective tissue has the largest number of cells per unit volume of extracellular matrix. The large number of cells frequently makes it difficult to distinguish the fibrous component without the use of special stains. </p>

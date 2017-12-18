@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 2
 lab_topic_name: "lab02"
-weight: 
+weight: 2
 ---
 <div class="entrybody">
 						<p>In this type of epithelium, no cells on the basal lamina reach the lumen. The layer of cells that rests on the basal lamina is the source of the upper layers of cells. </p>

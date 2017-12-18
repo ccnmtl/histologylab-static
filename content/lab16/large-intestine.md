@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 16
 lab_topic_name: "lab16"
-weight: 
+weight: 4
 ---
 <div class="entrybody">
 						<h3><u>#39 Colon, thin plastic section (H&amp;E)</u></h3>

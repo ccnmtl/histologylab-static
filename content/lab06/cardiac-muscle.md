@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 6
 lab_topic_name: "lab06"
-weight: 
+weight: 1
 ---
 <div class="entrybody">
 						<p>Cardiac muscle is striated and contains centrally placed nuclei. Cardiac muscle cells are branched cylinders connected by intercalated discs. </p>

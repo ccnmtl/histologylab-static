@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 14
 lab_topic_name: "lab14"
-weight: 
+weight: 1
 ---
 <div class="entrybody">
 						<h3><u><b>#58 Ductus Deferens, <span class="caps">H&amp;E </span>or trichrome (Masson)</b></u></h3>

@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 4
 lab_topic_name: "lab04"
-weight: 
+weight: 3
 ---
 <div class="entrybody">
 						Endochondral ossification involves the <u>replacement of a cartilage model by bone</u>. This ossification process can be studied in the <u>long bones</u>, such as the bones of the limbs. In a typical adult long bone, one can distinguish grossly a cylindrical <u>shaft</u> or <u><b>diaphysis</b></u> of compact bone (with a central <u>marrow cavity</u>) and, at the ends of the shaft, the <u><b>epiphyses</b></u>, each consisting of spongy bone covered by a thin peripheral shell of compact bone. In the growing long bone, the epiphysis and the diaphysis are united by a transitional zone called the <u><b>metaphysis</b></u>.<br>

@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 6
 lab_topic_name: "lab06"
-weight: 
+weight: 2
 ---
 <div class="entrybody">
 						<p>Smooth muscle is widely distributed in the body.  It is found in the walls of ducts and blood and lymphatic vessels, as well as in the walls of the digestive, respiratory and urogenital tracts.  It also occurs in many other sites including the eye (iris and ciliary body), skin (arrector pili muscles of hairs), endocardium, scrotum, penis, perineum, and nipple. Always correlate the function of smooth muscle with the different organs and regions in which it is found.</p>

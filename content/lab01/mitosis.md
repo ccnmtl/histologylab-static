@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 1
 lab_topic_name: "lab01"
-weight: 
+weight: 3
 ---
 <div class="entrybody">
 						<p>Mitosis is divided into four distinct stages: prophase, metaphase, anaphase and telophase. During <u>prophase</u>, the nuclear envelope disperses, replicated chromosomes condense, and the two sister chromatids become attached at a site called the centromere. At <u>metaphase</u>, duplicated chromosomes become aligned in a single plane. At <u>anaphase A</u>, the sister chromatids separate and begin to migrate to the poles.  At <u>anaphase B</u>, the sister chromatids continue to migrate toward the poles and the microtubules of the spindle elongate.  During <u>telophase</u>, the sister chromatids reach the poles, the nuclear envelope re-forms and the chromosomes decondense.  Cytoplasmic division usually begins in anaphase and is complete by the end of telophase.   </p>

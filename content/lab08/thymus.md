@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 8
 lab_topic_name: "lab08"
-weight: 
+weight: 3
 ---
 <div class="entrybody">
 						<p>The thymus is the site of T-cell maturation. Thymic epithelial reticular cells attract thymocyte precursors and macrophages. The functional <u>blood-thymus barrier</u> consists of epithelial reticular cells, their basal laminae, and endothelial cells joined by tight junctions. This barrier keeps antigens in blood vessels from entering the thymus, preventing reaction with developing T-cells. The blood-thymus barrier is present in the cortex, but not the medulla.</p>

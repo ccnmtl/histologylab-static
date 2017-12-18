@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 15
 lab_topic_name: "lab15"
-weight: 
+weight: 2
 ---
 <div class="entrybody">
 						<h3>#65 Uterus, Human Pre-ovulatory or Proliferative State, <span class="caps">H&amp;E</span></h3>

@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 8
 lab_topic_name: "lab08"
-weight: 
+weight: 1
 ---
 <div class="entrybody">
 						<p><img src="http://histologylab.ccnmtl.columbia.edu/assets/images/117%20small%20intestine.jpg" style="width:188px; height:150px; float:right;">This is the lymphoid tissue of the alimentary canal, upper respiratory passages, and urinary tract. It occurs in three forms: <u>diffuse lymphatic tissue</u>, <u>solitary lymphatic nodules</u>, and <u>aggregates of lymphatic nodules</u>.  Aggregates of lymphocytes are most common in the small intestine (Peyer's patches) and in the vermiform appendix.  Are these aggregates encapsulated or unencapsulated?</p>

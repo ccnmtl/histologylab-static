@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 16
 lab_topic_name: "lab16"
-weight: 
+weight: 2
 ---
 <div class="entrybody">
 						<p>The stomach extends from the esophagus to the duodenum; it is divisible into the <u>cardiac, fundus, body,</u> and <u>pyloric regions</u>.  The distensible stomach is involved in both the mechanical and chemical breakdown of food, and also serves as a temporary reservoir. Its simple columnar epithelium is specialized for secretion.  The gastric mucosa contains <u>gastric pits</u> (foveolae), which are surface invaginations that also serve as the ducts of the underlying intrinsic <u>gastric glands</u>.  Three basic cell types contribute to the secretion of gastric juice, and each has a characteristic appearance under the light and electron microscope.  All of these cell types can be seen in the fundus and body of the stomach.</p>

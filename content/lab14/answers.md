@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 14
 lab_topic_name: "lab14"
-weight: 
+weight: 7
 ---
 <div class="entrybody">
 						<h3>#56 Testis and Epididymis, Human, Adult, <span class="caps">H&amp;E</span></h3>

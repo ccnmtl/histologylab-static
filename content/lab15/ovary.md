@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 15
 lab_topic_name: "lab15"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<h3>#61 Ovary</h3>

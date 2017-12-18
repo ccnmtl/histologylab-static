@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 5
 lab_topic_name: "lab05"
-weight: 
+weight: 3
 ---
 <div class="entrybody">
 						<p>The enteric nervous system is the intrinsic innervation of the gastrointestinal tract.  It is made up of ganglia and the nerves emanating from these neurons.  It contains glia like the central nervous system, however there are no Schwann cells, fibroblasts or other connective tissue elements within the ganglia.</p>

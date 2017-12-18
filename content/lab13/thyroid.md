@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 13
 lab_topic_name: "lab13"
-weight: 
+weight: 2
 ---
 <div class="entrybody">
 						<p>The thyroid gland consists of two populations of cells of different origin, histological arrangement, and function. The <u>follicular cells</u> secrete <u>thyroxine and triiodothyronine</u>. These hormones regulate development and metabolic rate. The <u>parafollicular cells</u> of the thyroid are of neural crest origin and secrete <u>calcitonin</u>. This hormone is one of the factors regulating calcium and phosphorous balance in the body.</p>

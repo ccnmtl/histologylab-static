@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 2
 lab_topic_name: "lab02"
-weight: 
+weight: 3
 ---
 <div class="entrybody">
 						<h3><u>#54 Urinary Bladder, <span class="caps">H&amp;E</span></u></h3>

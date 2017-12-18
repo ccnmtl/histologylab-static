@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 13
 lab_topic_name: "lab13"
-weight: 
+weight: 6
 ---
 <div class="entrybody">
 						<p>1. What is the functional significance of the hypothalamo-hypophyseal portal system?</p>

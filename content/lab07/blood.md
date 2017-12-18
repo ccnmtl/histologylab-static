@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 7
 lab_topic_name: "lab07"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<p>The study of normal and pathologic blood development is based on the examination of stained smears of peripheral blood and bone marrow and sections or smears of lymphoid tissue of the thymus, spleen, lymph nodes and lymphoid infiltrations and aggregates along the <span class="caps">G.I. </span>tract. During this lab, become familiar with the morphology of mature peripheral blood cells and study the stages of blood development.</p>

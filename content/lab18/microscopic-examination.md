@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 18
 lab_topic_name: "lab18"
-weight: 
+weight: 1
 ---
 <div class="entrybody">
 						<h3>#119. Eye, sagittal section</h3>

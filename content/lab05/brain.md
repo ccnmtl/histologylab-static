@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 5
 lab_topic_name: "lab05"
-weight: 
+weight: 1
 ---
 <div class="entrybody">
 						<h3><u>#86 Cerebellum, <span class="caps">H&amp;E</span></u></h3>

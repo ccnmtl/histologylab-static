@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 8
 lab_topic_name: "lab08"
-weight: 
+weight: 7
 ---
 <div class="entrybody">
 						<p>Aggregates of lymphocytes are most common in the small intestine (Peyer's patches) and in the vermiform appendix.  Are these aggregates encapsulated or unencapsulated? <em>unencapsulated</em></p>

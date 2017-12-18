@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 14
 lab_topic_name: "lab14"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<h3><u><b>#56 Testis, Adult, <span class="caps">H&amp;E</span></b></u></h3>

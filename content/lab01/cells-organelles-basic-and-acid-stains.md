@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 1
 lab_topic_name: "lab01"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<p>The first step in preparing a tissue or organ for microscopic examination is fixation, or preservation, of the specimen.  Formalin is a commonly used fixative.  Many other fixatives are available and are used in the study of specific structures.</p>

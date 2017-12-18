@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 5
 lab_topic_name: "lab05"
-weight: 
+weight: 2
 ---
 <div class="entrybody">
 						<p>The peripheral nervous system includes all neural tissue other than the brain or spinal cord.</p>

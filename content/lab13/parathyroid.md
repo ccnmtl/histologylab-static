@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 13
 lab_topic_name: "lab13"
-weight: 
+weight: 3
 ---
 <div class="entrybody">
 						<p>The parathyroid glands are located on the posterior aspect of the thyroid. There may be anywhere from 2 to 6 glands in an individual. Cells in these glands secrete parathyroid hormone, which acts to increase calcium resorption from bone and in the renal tubules. It also acts to increase the synthesis of the active form of Vitamin D. Vitamin D, in turn, increases the absorption of Ca++ from the small intestine.</p>

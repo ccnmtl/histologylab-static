@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 18
 lab_topic_name: "lab18"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<p>Familiarize yourself with the three layers of the eyeball and its contents.</p>

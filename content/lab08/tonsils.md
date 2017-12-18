@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 8
 lab_topic_name: "lab08"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<h3><u>#27 Palatine tonsil, Human. H &amp; E</u></h3>

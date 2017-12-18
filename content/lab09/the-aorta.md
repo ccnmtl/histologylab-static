@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 9
 lab_topic_name: "lab09"
-weight: 
+weight: 2
 ---
 <div class="entrybody">
 						<p>The sections on these slides are stained to demonstrate elastin, collagen and the cellular organization of the aorta.  The aorta is an <u>elastic artery</u> which has a relatively thick <u>tunica intima</u> bounded by endothelium and the internal elastic membrane.  The internal elastic membrane, however, is less obvious here than in the smaller <u>muscular arteries</u>.  In the <u>tunica intima</u> smooth muscle cells run parallel to the long axis of the aorta while in the tunica media smooth muscle is spirally arranged.  Within the tunica media the distribution of elastin in the elastic laminae is revealed as red-staining or black-staining material by the elastin stain. Elastin is not stained in the Masson preparations, but can still be seen as clear, refractile material surrounded by blue-staining collagen fibers.  Both elastin and collagen are produced by smooth muscle cells, which are the only cell type within the tunica media.</p>

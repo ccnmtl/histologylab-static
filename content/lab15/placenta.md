@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 15
 lab_topic_name: "lab15"
-weight: 
+weight: 4
 ---
 <div class="entrybody">
 						<p>The placenta may be defined as an apposition or fusion of the fetal membranes with the uterine mucosa for the purpose of physiological exchange.  The period of placentation is initiated by the attachment of the blastocyst to the endometrium, and it is terminated by the delivery of the newborn infant at the time of parturition. The placenta is the first organ to be differentiated, and performs functions analogous to those of the <u>lung</u> (gas exchange), <u>intestine</u> (nutrient absorption), <u>kidney</u> (excretion and ion regulation), <u>liver</u> (synthesis of serum proteins, steroid metabolism), <u>pituitary</u> (synthesis of hormones including gonadotropic and prolactin-like hormones), and <u>gonads</u> (incomplete synthesis of progestins and estrogens).</p>

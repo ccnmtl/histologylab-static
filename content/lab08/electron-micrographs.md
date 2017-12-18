@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 8
 lab_topic_name: "lab08"
-weight: 
+weight: 5
 ---
 <div class="entrybody">
 						<p>Be sure that you examine the electron micrographs.</p>

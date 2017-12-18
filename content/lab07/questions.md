@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 7
 lab_topic_name: "lab07"
-weight: 
+weight: 3
 ---
 <div class="entrybody">
 						

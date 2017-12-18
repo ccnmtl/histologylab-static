@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 13
 lab_topic_name: "lab13"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<p>The pituitary gland is a dual gland consisting of an epithelial component  called the <u>adenohypophysis</u> and a neural component called the <u>neurohypophysis</u>. The  adenohypophysis is derived from an outgrowth of oral ectoderm known as <u>Rathke's pouch</u>.  It has three parts, the<u>pars distalis</u> (anterior lobe), pars tuberalis (enveloping the infundibular stalk), and pars intermedia (rudimentary in adults). The neurohypophysis is a neuroectodermal downgrowth from the floor of the diencephalon (part of the central nervous system)  and includes the <u>pars nervosa</u> (posterior lobe) and the infundibulum.</p>

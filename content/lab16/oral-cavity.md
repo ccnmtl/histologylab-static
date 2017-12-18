@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 16
 lab_topic_name: "lab16"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<p>The epithelial lining of the oral cavity is of the stratified squamous type. In contrast to the skin it is non-keratinized. The major salivary glands arise as invaginations of the oral epithelium during the second month of embryonic development, and they are involved with the secretion of the watery, mucus, and enzymatic content of saliva. A description of these glands can be found in the following lab.</p>

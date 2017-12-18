@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 4
 lab_topic_name: "lab04"
-weight: 
+weight: 2
 ---
 <div class="entrybody">
 						<p>The process by which bone is formed is termed osteogenesis or ossification. Bone is never formed as a primary tissue, it always replaces a preexisting support tissue. There are two types of bone formation: <u>intramembranous</u> and <u>endochondral ossification</u>.</p>

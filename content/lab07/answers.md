@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 7
 lab_topic_name: "lab07"
-weight: 
+weight: 4
 ---
 <div class="entrybody">
 						<p>Be sure you know the biochemical composition of the cytoplasmic granules of neutrophils (polymorphonuclear leukocytes), eosinophils, and basophils.</p>

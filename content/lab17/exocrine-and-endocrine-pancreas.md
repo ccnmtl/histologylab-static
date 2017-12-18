@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 17
 lab_topic_name: "lab17"
-weight: 
+weight: 3
 ---
 <div class="entrybody">
 						<p><img src="http://histologylab.ccnmtl.columbia.edu/assets/images/107%20pancreas.jpg" style="width:167px; height:150px; float:right;">The pancreas develops as dorsal and ventral outgrowths of the duodenum, and its two diverticula fuse during later embryonic development. The pancreas contains both <u>exocrine</u> and <u>endocrine</u> components. The exocrine component consists of purely <u>serous acini</u>.   It is the site of production and release of digestive enzymes (in an inactive state).  These are delivered through a duct system that is similar to that in the salivary glands: intercalated duct to intralobular duct to interlobular duct. A diagnostic feature of the exocrine pancreas is the presence of <u>centro-acinar cells</u>.  These cells form the initial portion of the intercalated duct.  The pale-staining nuclei of the centro-acinar cells appear in the center of an acinus (hence their name).</p>

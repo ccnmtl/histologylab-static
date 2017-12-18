@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 3
 lab_topic_name: "lab03"
-weight: 
+weight: 1
 ---
 <div class="entrybody">
 						<p>Reticular tissue, a type of loose connective tissue in which reticular fibers are the most prominent fibrous component, forms the supporting framework of the lymphoid organs (lymph nodes, spleen, tonsils), bone marrow and liver. Reticular fibers (type <span class="caps">III </span>collagen) are too thin to stain in ordinary histological preparations, but they are readily demonstrated by techniques involving the reduction of silver from silver nitrate by the glycosaminoglycan surface coat.</p>

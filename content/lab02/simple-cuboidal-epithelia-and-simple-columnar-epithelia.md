@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 2
 lab_topic_name: "lab02"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<p>**Simple cuboidal epithelia<br>

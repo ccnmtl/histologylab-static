@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 3
 lab_topic_name: "lab03"
-weight: 
+weight: 2
 ---
 <div class="entrybody">
 						<h3><u>#46 Skin, scalp, <span class="caps">H&amp;E</span></u></h3>

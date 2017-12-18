@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 17
 lab_topic_name: "lab17"
-weight: 
+weight: 5
 ---
 <div class="entrybody">
 						<p>1. Why can the liver be characterized as both an exocrine and endocrine organ?</p>

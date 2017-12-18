@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 5
 lab_topic_name: "lab05"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<p>The central nervous system consists of the brain and spinal cord.</p>

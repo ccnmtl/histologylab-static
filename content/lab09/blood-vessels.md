@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 9
 lab_topic_name: "lab09"
-weight: 
+weight: 1
 ---
 <div class="entrybody">
 						<p><img src="http://histologylab.ccnmtl.columbia.edu/assets/images/larger%20vessel.jpg" style="width:154px; height:150px; float:right;">Vessels of both the arterial and venous system are classified on the basis of their size, and by the nature and abundance of the tissue composing their tunics.  You should be able to distinguish between arteries and veins and recognize capillaries. Remember that red blood cells are often visible in the lumen of blood vessels, however they will not be present in every lumen due to preparation of the slides. Do not depend on red blood cells when identifying blood vessels. </p>

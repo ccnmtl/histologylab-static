@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 17
 lab_topic_name: "lab17"
-weight: 
+weight: 7
 ---
 <div class="entrybody">
 						<h3>#115 Gall bladder, H &amp; E</h3>

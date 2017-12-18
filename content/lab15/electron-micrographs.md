@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 15
 lab_topic_name: "lab15"
-weight: 
+weight: 6
 ---
 <div class="entrybody">
 						<p>Examine the electron micrographs so that you understand the ultrastructural equivalents of the structures you have seen under the microscope.</p>

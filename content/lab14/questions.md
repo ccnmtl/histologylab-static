@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 14
 lab_topic_name: "lab14"
-weight: 
+weight: 6
 ---
 <div class="entrybody">
 						<p>1. Review the process of spermatogenesis.</p>

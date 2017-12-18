@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 4
 lab_topic_name: "lab04"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<p>Cartilage is a specialized type of connective tissue whose unique combination of rigidity, elasticity and resilience is due primarily to the special properties of its <u>matrix</u>. As in other connective tissues, its matrix is composed of <u>fibers</u> (collagenous or elastic) and a <u>ground substance</u> that is rich in <u>extracellular glycosaminoglycans</u> (particularly the <u>chondroitin sulfates</u>). Cartilage is avascular, but its matrix is permeable to nutrients and waste products.</p>

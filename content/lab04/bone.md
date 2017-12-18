@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 4
 lab_topic_name: "lab04"
-weight: 
+weight: 1
 ---
 <div class="entrybody">
 						<p>Bone is a <u>calcified</u> connective tissue, and like other connective tissues, it consists of cells, fibers, and ground substance. The deposition of inorganic <u>calcium phosphate</u> salts as <u>hydroxyapatite</u> crystals within its matrix is a distinguishing characteristic of bone. This renders it structurally rigid. In addition, bone functions as a homeostatic reservoir of calcium and phosphate ions, and it encloses the hematopoietic elements of the bone marrow.</p>

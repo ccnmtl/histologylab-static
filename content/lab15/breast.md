@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 15
 lab_topic_name: "lab15"
-weight: 
+weight: 5
 ---
 <div class="entrybody">
 						<p>The mammary gland is a cyclic organ, varying in size and structure in response to hormones from the adrenal, ovary and pituitary. The two slides in your collection represent two of the extremes normally encountered. You should realize that this gland is normally subject to a great deal of variation.</p>

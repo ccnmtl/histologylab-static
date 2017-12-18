@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 13
 lab_topic_name: "lab13"
-weight: 
+weight: 7
 ---
 <div class="entrybody">
 						<h2>Pituitary Gland</h2>

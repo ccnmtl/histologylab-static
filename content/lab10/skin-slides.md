@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 10
 lab_topic_name: "lab10"
-weight: 
+weight: 0
 ---
 <div class="entrybody">
 						<h3><u><b>#4 Skin, thick skin, volar surface, <span class="caps">H&amp;E</span></b></u></h3>
