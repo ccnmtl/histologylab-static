@@ -12,6 +12,11 @@ SCRIPT_FILE ?= convert.py
 MAX_COMPLEXITY ?= 10
 PY_DIRS ?= *.py tests --exclude virtualenv.py
 
+STAGING_URL=https://histologylab.stage.ctl.columbia.edu/
+PROD_URL=https://histologylab.ctl.columbia.edu/
+STAGING_BUCKET=histologylab.stage.ctl.columbia.edu
+PROD_BUCKET=histologylab.ctl.columbia.edu
+
 JS_FILES=themes/ctl-histologylab/static/js/
 
 all: eslint
