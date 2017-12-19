@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-<h1>{{ .Title }}</h1>
+<h1 class="display-2">{{ .Title }}</h1>
 <ul>
     {{ range ( where (.Site.Pages.ByWeight ) "Type" "lab_topic") }}
     <li>
