@@ -2,11 +2,10 @@
 title: "Skin"
 date: 2017-12-17
 type: lab_topic
-lab_topic_number: 10
-weight: 
+weight: 10
 ---
 <div class="entrybody">
-						<h2>Learning objectives</h2>
+<h2>Learning objectives</h2>
 
 <p>1. Know the layers of the skin.</p>
 
@@ -22,16 +21,4 @@ weight:
 <li><u><b>Dermis</b></u> - a superficial papilllary layer of loose connective tissue, underlain by a reticular layer of dense fibrous irregularly arranged connective tissue</li>
 <li><u><b>Hypodermis</b></u> - deepest layer of skin, also called subcutaneous tissue, loose connective tissue, containing adipose tissue</li>
 </ol>
-
-
-						
-						
-							
-								
-								<h2>Lab activities</h2>
-								<ol>
-									<li><a href="http://histologylab.ccnmtl.columbia.edu/lab10/skin_slides.html">Skin Slides</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab10/micrographs.html">Skin: Micrographs</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab10/questions.html">Questions</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab10/answers_1.html">Answers</a></li>
-								</ol>
-							
-						
-						</div>
+</div>
