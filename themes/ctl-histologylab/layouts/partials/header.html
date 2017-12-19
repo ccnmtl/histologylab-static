@@ -1,4 +1,4 @@
-<!DOCTYPE html><!-- SSNM Website -->
+<!DOCTYPE html><!-- Histology Lab Website -->
 <html lang="en">
 <head>
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Params.shortTitle }}: {{ .Title }}{{ end }}</title>
@@ -29,7 +29,6 @@
 </head>
 <body itemscope itemtype="http://schema.org/WebPage"{{ if .IsPage }} class="{{ .Type }}"{{ end }}>
 
- {{ partial "banner.html" . }}
  {{ partial "navbar.html" . }}
 
     <div id="maincontent" role="main" class="container">
