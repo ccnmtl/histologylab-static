@@ -2,8 +2,7 @@
 title: "Endocrine Glands"
 date: 2017-12-17
 type: lab_topic
-lab_topic_number: 13
-weight: 
+weight: 13
 ---
 <div class="entrybody">
 						<p><big><b><span class="caps">PITUITARY, ADRENAL, THYROID, PARATHYROID, PANCREATIC ISLETS</span> OF <span class="caps">LANGERHANS</span></b></big></p>

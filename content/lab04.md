@@ -2,8 +2,7 @@
 title: "Cartilage, Bone, Bone Development"
 date: 2017-12-17
 type: lab_topic
-lab_topic_number: 4
-weight: 
+weight: 4
 ---
 <div class="entrybody">
 						<h2>Learning objectives</h2>

@@ -2,8 +2,7 @@
 title: "Gastrointestinal System: Salivary Glands, Liver, Gall Bladder, Pancreas "
 date: 2017-12-17
 type: lab_topic
-lab_topic_number: 17
-weight: 
+weight: 17
 ---
 <div class="entrybody">
 						<h2>Learning objectives</h2>

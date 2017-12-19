@@ -2,8 +2,7 @@
 title: "Connective Tissue"
 date: 2017-12-17
 type: lab_topic
-lab_topic_number: 3
-weight: 
+weight: 3
 ---
 <div class="entrybody">
 						<h2>Learning objectives</h2>

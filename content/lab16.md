@@ -2,8 +2,7 @@
 title: "Gastrointestinal System I"
 date: 2017-12-17
 type: lab_topic
-lab_topic_number: 16
-weight: 
+weight: 16
 ---
 <div class="entrybody">
 						<h2><span class="caps">TONGUE, ESOPHAGUS, STOMACH, SMALL AND LARGE INTESTINE</span></h2>

@@ -2,8 +2,7 @@
 title: "Microscopy, Cells, Organelles, Mitosis"
 date: 2017-12-17
 type: lab_topic
-lab_topic_number: 1
-weight: 
+weight: 1
 ---
 <div class="entrybody">
 						<h2>Learning objectives</h2>

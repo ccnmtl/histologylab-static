@@ -2,8 +2,7 @@
 title: "The Eye"
 date: 2017-12-17
 type: lab_topic
-lab_topic_number: 18
-weight: 
+weight: 18
 ---
 <div class="entrybody">
 						<h2>Learning objectives</h2>

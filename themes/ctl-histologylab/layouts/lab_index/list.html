@@ -2,7 +2,7 @@
 
 <h1>{{ .Title }}</h1>
 <ul>
-    {{ range ( where .Site.Pages "Type" "lab_topic" ) }}
+    {{ range ( where (.Site.Pages.ByWeight ) "Type" "lab_topic") }}
     <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>

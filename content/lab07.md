@@ -2,8 +2,7 @@
 title: "Blood, Hematopoiesis and Bone Marrow"
 date: 2017-12-17
 type: lab_topic
-lab_topic_number: 7
-weight: 
+weight: 7
 ---
 <div class="entrybody">
 						<h2>Learning objectives:</h2>

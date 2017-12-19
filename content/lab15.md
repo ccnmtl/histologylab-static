@@ -2,8 +2,7 @@
 title: "Female Reproductive System"
 date: 2017-12-17
 type: lab_topic
-lab_topic_number: 15
-weight: 
+weight: 15
 ---
 <div class="entrybody">
 						<h2>Learning objectives</h2>

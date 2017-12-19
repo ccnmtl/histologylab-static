@@ -2,8 +2,7 @@
 title: "Respiratory System"
 date: 2017-12-17
 type: lab_topic
-lab_topic_number: 11
-weight: 
+weight: 11
 ---
 <div class="entrybody">
 						<h2>Learning objectives</h2>

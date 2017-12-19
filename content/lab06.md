@@ -2,8 +2,7 @@
 title: "Muscle"
 date: 2017-12-17
 type: lab_topic
-lab_topic_number: 6
-weight: 
+weight: 6
 ---
 <div class="entrybody">
 						<h2>Learning objectives</h2>
