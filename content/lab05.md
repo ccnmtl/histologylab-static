@@ -5,21 +5,13 @@ type: lab_topic
 weight: 5
 ---
 <div class="entrybody">
-						<h2>Learning objectives</h2>
-
-
+<h2>Learning objectives</h2>
 <ul>
 <li>Know the components of tissue in the central and peripheral nervous systems.</li>
 <li>Understand the meaning of terms gray matter and white matter.</li>
 <li>Relate nerve function to the properties of neurons and their cell processes:  axons and dendrites.  </li>
 </ul>
-
-
-
-
 <p>The central nervous system (CNS) includes:</p>
-
-
 <ol>
 <li>nerve cells (<u>neuronal cell bodies</u>) and their <u>dendrites</u> and <u>axons</u> (both myelinated and unmyelinated),</li>
 <li>supporting cells, (the <u>neuroglia):</u>  <u>oligodendroglia</u>, <u>astrocytes</u> and <u>microglia</u></li>
@@ -27,11 +19,7 @@ weight: 5
 <li>blood vessels.</li>
 </ol>
 
-
-
 <p>The peripheral nervous system (PNS) contains:</p>
-
-
 <ol>
 <li>neurons (organized into clusters called <u>ganglia</u>),  </li>
 <li>supporting cells including <u>satellite cells</u> associated with the ganglionic neurons and <u>schwann cells</u> which form the myelin sheath</li>
@@ -48,14 +36,4 @@ weight: 5
 <p>The connective tissue elements include the <u>meninges,</u> which surround the central nervous system; capsules surround some sense organs and ganglia; and the <u>endo-, peri-, and epineurium</u> of peripheral nerves.</p>
 
 <p>The detailed structure and function of the nervous system will be studied during the neurosciences course.  The following class slides and electron micrographs will serve to acquaint you with nervous tissue as one of the four basic tissues.  </p>
-						
-						
-							
-								
-								<h2>Lab activities</h2>
-								<ol>
-									<li><a href="http://histologylab.ccnmtl.columbia.edu/lab05/spinal_cord.html">Central Nervous System</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab05/brain.html">Brain</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab05/sympathetic_and_parasympathetic_systems.html">Peripheral Nervous System</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab05/enteric_nervous_system.html">Enteric Nervous System</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab05/peripheral_nerves.html">Peripheral Nervous System: Peripheral Nerves</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab05/micrographs.html">Electron Micrographs</a></li>
-								</ol>
-							
-						
-						</div>
+</div>

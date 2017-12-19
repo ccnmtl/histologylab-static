@@ -5,7 +5,7 @@ type: lab_topic
 weight: 15
 ---
 <div class="entrybody">
-						<h2>Learning objectives</h2>
+<h2>Learning objectives</h2>
 
 
 <ul>
@@ -15,16 +15,4 @@ weight: 15
 <li>Know the structure and function of the placenta.</li>
 <li>Be able to relate the appearance of the mammary glands to their functional state</li>
 </ul>
-
-
-						
-						
-							
-								
-								<h2>Lab activities</h2>
-								<ol>
-									<li><a href="http://histologylab.ccnmtl.columbia.edu/lab15/ovary.html">Ovary</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab15/uterine_tube.html">Reproductive Tract: Uterine Tube</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab15/uterus.html">Reproductive Tract: Uterus</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab15/cervix_uteri.html">Reproductive Tract: Cervix Uteri</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab15/placenta.html">Placenta</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab15/mammary_gland.html">Breast </a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab15/micrographs.html">Electron Micrographs</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab15/answers.html">Answers</a></li>
-								</ol>
-							
-						
-						</div>
+</div>

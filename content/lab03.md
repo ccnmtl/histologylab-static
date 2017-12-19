@@ -5,16 +5,13 @@ type: lab_topic
 weight: 3
 ---
 <div class="entrybody">
-						<h2>Learning objectives</h2>
-
+<h2>Learning objectives</h2>
 
 <ul>
 <li>Know that cells, fibers and ground substance constitute connective tissue.</li>
 <li>Be able to describe the relationship of these constituents, their structures and functions.</li>
 <li>Learn the distribution of collagen types (Types I, <span class="caps">II, III </span>and IV) in the connective tissue types.</li>
 </ul>
-
-
 
 <p>Connective tissue is comprised of cells, formed fibers and amorphous extracellular matrix (<u>ground substance</u>). Both the fibers and ground substance are secreted by the connective tissue cells that are interspersed and embedded in the matrix. Functions of the connective tissue include support and binding together of the other tissues; providing a medium for the passage of metabolites; serving as a storage site for lipids, water and electrolytes; aiding in protection against infection by an inflammatory reaction mediated by cells that have migrated into the connective tissue from the blood; and repair by the formation of scar tissue.</p>
 
@@ -23,60 +20,26 @@ weight: 3
 <h2>A <span class="caps">CLASSIFICATION</span> OF <span class="caps">CONNECTIVE TISSUE</span></h2>
 
 <p>A. Loose Connective Tissue</p>
-
-
 <ol>
 <li>Subcutaneous tissue, lamina propria.   </li>
 </ol>
-
-
-
 <p>B. Specialized Connective Tissue</p>
-
-
 <ol>
 <li>Reticular connective tissue - forms a supporting framework for spleen, lymph nodes, bone marrow, liver, glands, and striated muscle fibers.</li>
 <li>Adipose connective tissue - a modification of reticular connective tissue, characterized by an extensive intracellular accumulation of lipid droplets.</li>
 </ol>
-
-
-
 <p>C. Dense, Irregular Connective Tissue</p>
-
-
 <ol>
 <li>Predominantly collagenous - dermis, capsule of spleen and other organs, such as the prostate gland. </li>
 <li>Predominantly elastic - for example, the elastic membrane of large arteries.</li>
 </ol>
-
-
-
 <p>D. Dense, Regular Connective Tissue</p>
-
-
 <ol>
 <li>Collagenous - tendons, most ligaments, cornea </li>
 <li>Elastic - elastic ligaments (ligamentum nuchae flavate and interspinous ligaments), true vocal cords</li>
 </ol>
-
-
-
 <p>E. Mesenchyme (Embryonic Connective Tissue)</p>
-
-
 <ol>
 <li>Primitive connective tissue that contains precursors for connective tissue as well as other tissue types.</li>
 </ol>
-
-
-						
-						
-							
-								
-								<h2>Lab activities</h2>
-								<ol>
-									<li><a href="http://histologylab.ccnmtl.columbia.edu/lab03/loose_areolar_connective_tissue.html">Loose Connective Tissue</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab03/reticular_connective_tissue.html">Connective Tissue: Reticular </a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab03/adipose_connective_tissue.html">Connective Tissue: Adipose</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab03/dense_irregularly_arranged_connective_tissue.html">Dense, Irregularly Arranged Connective Tissue</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab03/dense_regularly_arranged_connective_tissue.html">Dense, Regularly Arranged Connective Tissue</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab03/micrographs.html">Connective Tissue: <u>Micrographs</u></a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab03/questions.html"><u>Questions</u></a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/lab03/answers.html">Answers</a></li>
-								</ol>
-							
-						
-						</div>
+</div>
