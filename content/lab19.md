@@ -114,5 +114,5 @@ Identify:<br>
 </ol>
 
 <ol>
-<li><p><a href="http://histologylab.ccnmtl.columbia.edu/assets_c/2009/08/lab16_eardiagram-1792.html" onclick="window.open('http://histologylab.ccnmtl.columbia.edu/assets_c/2009/08/lab16_eardiagram-1792.html', 'popup','width=810, height=750,scrollbars=1,resizable=1, toolbar=no,directories=no,location=no,menubar=no,status=no'); return false">View diagram</a></p></li>
+<li><p><a href="http://histologylab.ccnmtl.columbia.edu/assets_c/2009/08/lab16_eardiagram-1792.html" target="_blank">View diagram</a></p></li>
 </ol></div>
