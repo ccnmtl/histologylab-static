@@ -3,11 +3,12 @@
 # Override this variable in your Makefile to use a different hugo
 # version than the default on staging / production. For example:
 #   HUGO=/usr/local/bin/hugo-0.19
-HUGO ?= `which hugo`
+HUGO ?= /usr/local/bin/hugo-0.26 
 
 S3CMD ?= s3cmd
 PUBLIC ?= public
-DRAFT_FLAGS ?= --buildDrafts --verboseLog=true -v
+#DRAFT_FLAGS ?= --buildDrafts --verboseLog=true -v
+DRAFT_FLAGS ?= --verboseLog=true -v
 PROD_FLAGS ?= -s .
 S3_FLAGS ?= --acl-public --delete-removed --no-progress --no-mime-magic --guess-mime-type
 INTERMEDIATE_STEPS ?= echo nothing
