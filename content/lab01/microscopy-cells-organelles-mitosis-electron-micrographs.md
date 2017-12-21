@@ -11,7 +11,7 @@ weight: 4
 
 <h3>Epithelial Junctional Complex</h3>
 
-<div class="slidepopup"><div class="thumbnail"> <a href="/assets_c/2009/07/09-1192.html" target="_blank" > <img src="http://histologylab.ccnmtl.columbia.edu/assets/images/09-thumb-170x115-1192.jpg" width="170" height="115" alt="" class="mt-image-left"> </a><br> <a href="/assets_c/2009/07/09-1192.html" target="_blank" >View larger size</a> </div><div class="slidetxt">
+<div class="slidepopup"><div class="thumbnail"> <a href="/assets_c/2009/07/09-1192.html" target="_blank" > <img src="/assets/images/09-thumb-170x115-1192.jpg" width="170" height="115" alt="" class="mt-image-left"> </a><br> <a href="/assets_c/2009/07/09-1192.html" target="_blank" >View larger size</a> </div><div class="slidetxt">
 Epithelial Junctional Complex.</div></div>
 
 <h3>Ciliated and Secretory Epithelium </h3>

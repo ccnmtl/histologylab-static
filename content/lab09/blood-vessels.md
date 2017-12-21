@@ -7,7 +7,7 @@ lab_topic_name: "lab09"
 weight: 1
 ---
 <div class="entrybody">
-						<p><img src="http://histologylab.ccnmtl.columbia.edu/assets/images/larger%20vessel.jpg" style="width:154px; height:150px; float:right;">Vessels of both the arterial and venous system are classified on the basis of their size, and by the nature and abundance of the tissue composing their tunics.  You should be able to distinguish between arteries and veins and recognize capillaries. Remember that red blood cells are often visible in the lumen of blood vessels, however they will not be present in every lumen due to preparation of the slides. Do not depend on red blood cells when identifying blood vessels. </p>
+						<p><img src="/assets/images/larger%20vessel.jpg" style="width:154px; height:150px; float:right;">Vessels of both the arterial and venous system are classified on the basis of their size, and by the nature and abundance of the tissue composing their tunics.  You should be able to distinguish between arteries and veins and recognize capillaries. Remember that red blood cells are often visible in the lumen of blood vessels, however they will not be present in every lumen due to preparation of the slides. Do not depend on red blood cells when identifying blood vessels. </p>
 
 <p>Larger vessels have a common structural plan in that they are composed of three concentric coats or tunics. These are:</p>
 
@@ -22,7 +22,7 @@ weight: 1
 
 <h2><span class="caps">DISTINGUISHING FEATURES</span></h2>
 
-<p><img src="http://histologylab.ccnmtl.columbia.edu/assets/images/Distingushing%20feature%20-%20artery%20and%20vein.jpg" style="width:97px; height:150px; float:right;"># <u>Arteries</u> have an internal elastic membrane is always present (although it is less distinctive in large elastic arteries).  The tunica media is the thickest tunic. It is predominantly muscular in arterioles and most arteries, but it is predominantly elastic in the largest arteries (the so-called <u>elastic arteries</u> such as the aorta and the common carotid).  The tunica adventitia is relatively thin.</p>
+<p><img src="/assets/images/Distingushing%20feature%20-%20artery%20and%20vein.jpg" style="width:97px; height:150px; float:right;"># <u>Arteries</u> have an internal elastic membrane is always present (although it is less distinctive in large elastic arteries).  The tunica media is the thickest tunic. It is predominantly muscular in arterioles and most arteries, but it is predominantly elastic in the largest arteries (the so-called <u>elastic arteries</u> such as the aorta and the common carotid).  The tunica adventitia is relatively thin.</p>
 
 
 <ol>
@@ -33,7 +33,7 @@ weight: 1
 
 <p>An artery and vein frequently run together, which facilitates their comparison.  A useful generalization is that the artery has a relatively thick wall and a small lumen, whereas a vein has a relatively thin wall and a broad lumen.<br>
 # <u>Arterioles</u> and small arteries exhibit a distinctive arrangement of endothelial cells and smooth muscle fibers in their walls.  The endothelial cells are oriented longitudinally, whereas the smooth muscle fibers in the adjacent tunica media are wrapped around these vessels in a circular fashion.  This gives rise to a regular pattern of nuclear orientation that is lacking in venous vessels.  An arteriole usually has only one layer of smooth muscle and not more than two.<br>
-<img src="http://histologylab.ccnmtl.columbia.edu/assets/images/distinguishing%20features%20-%20capillary.jpg" style="width:149px; height:150px; float:right;"># <u>Capillaries</u> are the easiest vessels to define (but not to find). They consist of an endothelial layer and its underlying basal lamina.  There may also be an associated <u>pericyte</u> within the basal lamina of the endothelial cell.  They are classified on the basis of their "leakiness" as continuous (e.g., muscle, central nervous system, lungs), fenestrated (e.g., endocrine glands, intestinal tract, gall bladder), and discontinuous or sinusoidal (e.g., spleen, bone marrow, liver).</p>
+<img src="/assets/images/distinguishing%20features%20-%20capillary.jpg" style="width:149px; height:150px; float:right;"># <u>Capillaries</u> are the easiest vessels to define (but not to find). They consist of an endothelial layer and its underlying basal lamina.  There may also be an associated <u>pericyte</u> within the basal lamina of the endothelial cell.  They are classified on the basis of their "leakiness" as continuous (e.g., muscle, central nervous system, lungs), fenestrated (e.g., endocrine glands, intestinal tract, gall bladder), and discontinuous or sinusoidal (e.g., spleen, bone marrow, liver).</p>
 
 <p>Use electron micrographs to compare the structure of various types of capillaries.</p>
 						
