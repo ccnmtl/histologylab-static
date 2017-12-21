@@ -1,13 +1,10 @@
-header {
-  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.75)), color-stop(60%, transparent)), url("../img/Parietal_cells.jpg");
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.75), transparent 60%), url("../img/Parietal_cells.jpg");
-  background-position: center center;
-  background-size: cover;
-  padding-top: 3em; }
-  header h1 {
-    color: white; }
+.slidepopup .thumbnail, .thumbnail {
+  float: left;
+  margin: 0 1em 0.5em 0;
+  padding: 5px 11px 5px 5px;
+  border: 1px solid #ccc; }
 
 nav {
   color: black; }
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsNkpBQWdIO0VBQWhILGdIQUFnSDtFQUNoSCxtQ0FBbUM7RUFDbkMsdUJBQXVCO0VBQ3ZCLGlCQUFpQixFQUFFO0VBQ25CO0lBQ0UsYUFBYSxFQUFFOztBQUVuQjtFQUNFLGFBQWEsRUFBRSIsImZpbGUiOiJtYWluLmNzcyIsInNvdXJjZXNDb250ZW50IjpbImhlYWRlciB7XG4gIGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCgwZGVnLCByZ2JhKDAsIDAsIDAsIDAuNzUpLCB0cmFuc3BhcmVudCA2MCUpLCB1cmwoXCIuLi9pbWcvUGFyaWV0YWxfY2VsbHMuanBnXCIpO1xuICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXIgY2VudGVyO1xuICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICBwYWRkaW5nLXRvcDogM2VtOyB9XG4gIGhlYWRlciBoMSB7XG4gICAgY29sb3I6IHdoaXRlOyB9XG5cbm5hdiB7XG4gIGNvbG9yOiBibGFjazsgfVxuIl19 */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsWUFBWTtFQUNaLHNCQUFzQjtFQUN0QiwwQkFBMEI7RUFDMUIsdUJBQXVCLEVBQUU7O0FBRTNCO0VBQ0UsYUFBYSxFQUFFIiwiZmlsZSI6Im1haW4uY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLnNsaWRlcG9wdXAgLnRodW1ibmFpbCwgLnRodW1ibmFpbCB7XG4gIGZsb2F0OiBsZWZ0O1xuICBtYXJnaW46IDAgMWVtIDAuNWVtIDA7XG4gIHBhZGRpbmc6IDVweCAxMXB4IDVweCA1cHg7XG4gIGJvcmRlcjogMXB4IHNvbGlkICNjY2M7IH1cblxubmF2IHtcbiAgY29sb3I6IGJsYWNrOyB9XG4iXX0= */
