@@ -14,7 +14,7 @@ PY_DIRS ?= *.py tests --exclude virtualenv.py
 
 STAGING_URL=https://histologylab.stage.ccnmtl.columbia.edu/
 PROD_URL=https://histologylab.ctl.columbia.edu/
-STAGING_BUCKET=histologylab.stage.ctl.columbia.edu
+STAGING_BUCKET=histologylab.stage.ccnmtl.columbia.edu
 PROD_BUCKET=histologylab.ctl.columbia.edu
 
 JS_FILES=themes/ctl-histologylab/static/js/
