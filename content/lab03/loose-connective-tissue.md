@@ -13,7 +13,7 @@ weight: 0
 
 <h3><u>#39 Colon, <span class="caps">H&amp;E.</span></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/39.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_039.jpg" src="http://histologylab.ccnmtl.columbia.edu/assets/images/slide_039-thumb-170x143-1479.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/39.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/39.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_039.jpg" src="/assets/images/slide_039-thumb-170x143-1479.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/39.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
 
 <p>Examine the scanned image at low power, and note that one surface is indented by pits that are lined by columnar epithelial cells. Immediately beneath these cells is the <u>loose connective tissue</u> called <u>lamina propria</u>.</p>
 						
