@@ -22,4 +22,4 @@ To what ultrastructural feature does the striated border correspond? <em>Microvi
 <p> </p>
 						
 						
-						</div>
+</div>

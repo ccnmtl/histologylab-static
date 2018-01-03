@@ -19,7 +19,7 @@ weight: 1
 
 <h3><u>#9 Dried Bone, Shaft of Tibia</u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/09.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_009.jpg" src="/assets/images/slide_009-thumb-170x143-1416.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/09.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/09.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_009.jpg" src="/assets/images/slide_009-thumb-170x143-1416.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/09.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>Cross and longitudinal sections (unstained). Use the illustrations in your textbook as a guide and identify the following structures.</p>
 
@@ -35,13 +35,13 @@ weight: 1
 
 <h3><u>#11 Rib, Cross Section, (H&amp;E)</u>.</h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/11.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_011.jpg" src="/assets/images/slide_011-thumb-170x143-1419.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/11.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/11.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_011.jpg" src="/assets/images/slide_011-thumb-170x143-1419.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/11.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p><img src="/assets/images/11%20rib%2C%20cross%20section.jpg" style="width:211px; height:150px; float:right;">Surrounding the sectioned rib are bundles of skeletal muscle, tendon, nerves and blood vessels. Note the gradation of the surrounding connective tissue with the <u>periosteum</u> and the increased cellularity of the periosteum. The <u>reversal lines</u> (also known as cementing lines) that delimit the Haversian systems may appear refractile or slightly basophilic. What accounts for this basophilia? Trabeculae of bone extend into and partially subdivide the <u>marrow cavity</u>, which contains hematopoietic bone marrow. Bone marrow will be studied in more detail in a later lab.</p>
 
 <h3><u>#8 Rib and Cartilage, (H&amp;E)</u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/08.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_008.jpg" src="/assets/images/slide_008-thumb-170x143-1413.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/08.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/08.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_008.jpg" src="/assets/images/slide_008-thumb-170x143-1413.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/08.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>This slide demonstrates periosteum, which has dense cortical bone on the surface (better illustrated in the preceding slide) and spongy bone centrally. <u>Osteoblasts</u> are prominent on the surface of the bony trabeculae. <u>Osteoclasts</u> (multinucleated giant cells with acidophilic cytoplasm, related to the process of bone resorption) may also be seen near the osteochondral junction. Calcifying cartilage and rows of <u>hyaline cartilage</u> cells are present and extend into the cartilage of the proximal end of rib. Around the rib section, skeletal muscle and tendon are present.</p>
 
@@ -62,4 +62,4 @@ weight: 1
 <p>Be sure you know how cartilage and bone differ morphologically, functionally, and with respect to blood supply.</p>
 						
 						
-						</div>
+</div>

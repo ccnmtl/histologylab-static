@@ -24,4 +24,4 @@ In the lamina propria there are macrophages with irregular-sized <span class="ca
 <p>Be sure that you examine the electron micrographs in the lab so that you understand the ultrastructural equivalents of the structures you have seen under the microscope.</p>
 						
 						
-						</div>
+</div>

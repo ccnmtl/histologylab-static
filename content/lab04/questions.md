@@ -10,4 +10,4 @@ weight: 5
 						<p>1. What are the differences between intramembranous ossification and endochondral ossification?</p>
 						
 						
-						</div>
+</div>

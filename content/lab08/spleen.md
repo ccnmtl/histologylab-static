@@ -9,7 +9,7 @@ weight: 4
 <div class="entrybody">
 						<h3><u>#76 Spleen</u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/76.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_076.jpg" src="/assets/images/slide_076-thumb-170x143-1575.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/76.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/76.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_076.jpg" src="/assets/images/slide_076-thumb-170x143-1575.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/76.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>The spleen is comprised of <u>red pulp</u> and <u>white pulp</u>. The red pulp is the site of blood filtration and the white pulp is lymphoid tissue that responds to blood-borne antigens.  </p>
 
@@ -25,9 +25,9 @@ The remainder of the spleen consists of <u>red pulp</u> and is composed of <u>si
 
 <h3><u>#25 Spleen (Periodic acid-silver)</u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/25.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_025.jpg" src="/assets_c/2009/07/slide_025-thumb-170x142-1449.jpg" width="170" height="142" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/25.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/25.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_025.jpg" src="/assets_c/2009/07/slide_025-thumb-170x142-1449.jpg" width="170" height="142" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/25.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>Like the <span class="caps">PAS </span>technique, this staining method stains the network of reticular fibers and the fenestrated basal laminae of the splenic sinusoids black.  In section, the membrane may be seen as a succession of black points or short lines of silver-impregnated substance.</p>
 						
 						
-						</div>
+</div>

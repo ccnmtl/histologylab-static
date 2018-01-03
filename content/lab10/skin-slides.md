@@ -9,7 +9,7 @@ weight: 0
 <div class="entrybody">
 						<h3><u><b>#4 Skin, thick skin, volar surface, <span class="caps">H&amp;E</span></b></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/04.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_004.jpg" src="/assets/images/slide_004-thumb-170x143-1404.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/04.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/04.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_004.jpg" src="/assets/images/slide_004-thumb-170x143-1404.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/04.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p><u><b>Epidermis</b></u>: <br>
 The stratified squamous keratinizing epithelium of the epidermis is made up primarily of <u>keratinocytes</u>.  The form and function of these cells changes as they pass from basal to superficial locations. The layers of the epidermis from basement membrane to skin surface include:</p>
@@ -42,8 +42,8 @@ The stratified squamous keratinizing epithelium of the epidermis is made up prim
 
 <h3><u><b>#46 Skin, scalp, human <span class="caps">H&amp;E</span></b></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/46.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_046.jpg" src="/assets/images/slide_046-thumb-170x143-1491.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/46.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
-<div class="thumbnail" style="clear:both;"> <a href="http://virtualslides.cumc.columbia.edu/11436.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_11436.jpg" src="/assets/images/slide_11436-thumb-170x79-2167.jpg" width="170" height="79" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/11436.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/46.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_046.jpg" src="/assets/images/slide_046-thumb-170x143-1491.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/46.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail" style="clear:both;"> <a href="http://virtualslides.cumc.columbia.edu/11436.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_11436.jpg" src="/assets/images/slide_11436-thumb-170x79-2167.jpg" width="170" height="79" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/11436.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>Hair follicles are well demonstrated in this slide in longitudinal section.  The thin epidermis, characteristic of hairy regions, has a lacy or frayed <u>stratum corneum</u> whose appearance is an artifact of sectioning.  In life, this layer of the epidermis would be more compact and only the most superficial keratinized cells would be desquamating.</p>
 
@@ -52,4 +52,4 @@ The stratified squamous keratinizing epithelium of the epidermis is made up prim
 <p><img src="/assets/images/46%20skin%20-%20sebateous%20gland%20and%20arrector%20pili.jpg" style="width:206px; height:150px; float:right;"><u>Sebaceous glands</u> are associated with the hair follicle and their secretions empty into the hair follicle, between the hair shaft and the follicle wall.  The <u>arrector pili</u> muscle is a band of smooth muscle that inserts on the hair follicle, deep to the sebaceous glands.  Superficially it inserts at the base of the epidermis.  Some eccrine sweat glands are dispersed between the hair follicles.</p>
 						
 						
-						</div>
+</div>

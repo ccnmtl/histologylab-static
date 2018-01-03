@@ -42,4 +42,4 @@ weight: 6
 Endochondral ossification: replaces a preexisting cartilage framework. The bone lengthens through interstitial growth and changes diameter through appositional growth. Found in long bones</i></p>
 						
 						
-						</div>
+</div>

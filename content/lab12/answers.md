@@ -20,4 +20,4 @@ weight: 6
 <p>What are the components of the blood urinary barrier in the glomerulus?  <em>endothelial cell cytoplasm (fenestrations); three-part glomerular basement membrane composed of type IV collagen and polyanionic glycosaminoglycans; slit-diaphragms extending from the podocytes.</em></p>
 						
 						
-						</div>
+</div>

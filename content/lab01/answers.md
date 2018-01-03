@@ -30,6 +30,4 @@ weight: 6
 <p>7.	What are the cytological and functional differences between cilia and microvilli? <i>Cilia are motile microtubule based structures; microvilli are non-motile actin based structures.</i></p>
 
 <p>8. 	Know the structural characteristics and functional significance of the following organelles and inclusions: nucleus, nucleolus, ribosomes, endoplasmic reticulum (two types), mitochondria, Golgi apparatus, lysosomes, microtubules, cilia, microvilli, glycogen, lipid, peroxisomes. Which of these require more than pure light microscopy for their identification? What additional techniques can be used? </p>
-						
-						
-						</div>
+</div>
