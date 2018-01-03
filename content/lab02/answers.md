@@ -27,4 +27,4 @@ h2. #33 Esophagus, <span class="caps">H&amp;E</span></p>
 <p>Which part of the slide image corresponds to the esophageal lumen? <i>The bottom of the image would correspond to lumen of the esophagus because the epithelium is oriented facing the bottom of the image.</i></p>
 						
 						
-						</div>
+</div>

@@ -17,4 +17,4 @@ weight: 6
 2.  Why do adipocytes appear empty? <i>Lipid is lost in tissue preparation.</i></p>
 						
 						
-						</div>
+</div>

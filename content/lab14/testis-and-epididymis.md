@@ -9,7 +9,7 @@ weight: 0
 <div class="entrybody">
 						<h3><u><b>#56 Testis, Adult, <span class="caps">H&amp;E</span></b></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/56.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_056.jpg" src="/assets/images/slide_056-thumb-170x143-1518.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/56.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/56.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_056.jpg" src="/assets/images/slide_056-thumb-170x143-1518.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/56.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>At low magnification identify the <u>tunica albuginea</u>, the fibrous capsule surrounding the testis. The mediastinum (not visible on this slide) is the mass of acidophilic connective tissue at one pole through which the major vessels enter and leave the testis.  The rete testis is located in the mediastinum.  </p>
 
@@ -19,7 +19,7 @@ weight: 0
 
 <h3><u><b>#57 Testis and Epididymis, (H&amp;E)</b></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/57.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_057.jpg" src="/assets/images/slide_057-thumb-170x143-1521.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/57.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/57.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_057.jpg" src="/assets/images/slide_057-thumb-170x143-1521.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/57.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p><strong>Be sure that you distinguish the testis and the epididymis.</strong> <img src="/assets/images/57%20testis%20and%20epididimus.jpg" style="width:207px; height:150px; float:right;"></p>
 
@@ -28,4 +28,4 @@ weight: 0
 <p>Note:  For the histological characteristics of the efferent ductules see examples in textbooks or online.</p>
 						
 						
-						</div>
+</div>

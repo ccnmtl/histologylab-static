@@ -13,7 +13,7 @@ weight: 0
 
 <h3><u>#40 Parotid gland, (H&amp;E)</u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/40.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_040.jpg" src="/assets/images/slide_040-thumb-170x143-1482.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/40.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/40.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_040.jpg" src="/assets/images/slide_040-thumb-170x143-1482.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/40.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p><img src="/assets/images/40%20parotid%20gland.jpg" style="width:107px; height:150px; float:right;">This gland is purely <u>serous</u> in the adult human, so that all of the secretory units or <u>acini</u> have a similar appearance. A fibrous connective tissue capsule surrounds the gland and sends septa inward that subdivide the gland into <u>lobules</u>.  </p>
 
@@ -21,11 +21,11 @@ weight: 0
 
 <h3><u>#41 Sublingual Gland, (H&amp;E)</u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/41.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_041.jpg" src="/assets/images/slide_041-thumb-170x143-1485.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/41.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/41.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_041.jpg" src="/assets/images/slide_041-thumb-170x143-1485.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/41.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p><img src="/assets/images/41%20sublingual%20gland.jpg" style="width:216px; height:150px; float:right;">This is a mixed gland, with both mucous and serous secretory units. Most of the acini are either purely mucous or are mixed.  The mixed secretory units consist of a <u>mucous acinus</u> capped by a crescent-shaped aggregation of serous cells called a <u>serous demilune</u>.  </p>
 
 <p>The <u>submandibular gland</u> is also a mixed gland that is predominantly serous.</p>
 						
 						
-						</div>
+</div>

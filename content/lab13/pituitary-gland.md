@@ -13,7 +13,7 @@ weight: 0
 
 <h3><u><b>#73 Pituitary, (Masson's trichrome)</b></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/73.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_073.jpg" src="/assets/images/slide_073-thumb-170x143-1566.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/73.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/73.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_073.jpg" src="/assets/images/slide_073-thumb-170x143-1566.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/73.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>With Masson's stain, the <u>acidophils</u> are red and the <u>basophils</u> are blue.  <u>Chromophobes</u> will be light orange or faded to grey.  Note that red blood cells may be anything from red to blue.  The cords and clumps of epithelial cells are sharply outlined by the blue collagenous fibers.  </p>
 
@@ -21,13 +21,13 @@ weight: 0
 
 <h3><u><b>#74 Pituitary, <span class="caps">H&amp;E</span></b></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/74.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_074.jpg" src="/assets/images/slide_074-thumb-170x143-1569.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/74.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/74.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_074.jpg" src="/assets/images/slide_074-thumb-170x143-1569.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/74.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>The red or blue staining of the secretory granules is due to the acidophilia or basophilia of the hormone contained in the granules.  The pars intermedia, which is not seen clearly on this slide, forms a cap around the neurohypophysis and separates it from the pars distalis.  What kinds of cells are in the neurohypophysis?</p>
 
 <h3><u><b>#75 Pituitary, (Chrome-hematoxylin and Phloxin)</b></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/75.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_075.jpg" src="/assets/images/slide_075-thumb-170x143-1572.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/75.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/75.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_075.jpg" src="/assets/images/slide_075-thumb-170x143-1572.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/75.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 Nuclei are purple-black, acidophils bright pink, basophils blue-black, chromophobes light blue to colorless. Note the regional variations in the distribution of the various cell types. Note also that in this pituitary there is a large colloid cyst (Rathke's pouch).<br>
 <div style="text-align: center;"><img src="/assets/images/75%20pituitary.jpg" style="width:557px; height:130px;"></div>
@@ -39,4 +39,4 @@ Nuclei are purple-black, acidophils bright pink, basophils blue-black, chromopho
 <p>Where are the hormones of the neurohypophysis synthesized?</p>
 						
 						
-						</div>
+</div>

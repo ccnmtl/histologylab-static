@@ -23,4 +23,4 @@ weight: 6
 
 						
 						
-						</div>
+</div>

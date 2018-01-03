@@ -9,7 +9,7 @@ weight: 0
 <div class="entrybody">
 						<h3><u>#27 Palatine tonsil, Human. H &amp; E</u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/27.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_027.jpg" src="/assets/images/slide_027-thumb-170x143-1455.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/27.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/27.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_027.jpg" src="/assets/images/slide_027-thumb-170x143-1455.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/27.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>The tonsillar ring is located near the entrance of the throat and consists of the <u>palatine tonsil</u> (commonly known as "the tonsil"), the <u>pharyngeal tonsil</u> (commonly known as "adenoids"), and the <u>lingual tonsil</u> (on the posterior surface of the tongue).</p>
 
@@ -20,4 +20,4 @@ weight: 0
 <p>Identify the <u>connective tissue septa</u> that extend at intervals between the crypts and divide the tonsil into <u>lobules</u>, each with an individual crypt as an axis. At one side of the section in the submucosa, note the presence of a <u>pure mucous gland</u>.</p>
 						
 						
-						</div>
+</div>

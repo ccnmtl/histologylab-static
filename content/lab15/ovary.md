@@ -9,7 +9,7 @@ weight: 0
 <div class="entrybody">
 						<h3>#61 Ovary</h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/61.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_061.jpg" src="/assets/images/slide_061-thumb-170x143-1533.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/61.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/61.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_061.jpg" src="/assets/images/slide_061-thumb-170x143-1533.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/61.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>There are 3 sections of ovary on this slide. At low power note the general division of the ovary into an outer cortex containing follicles in various stages of development and an inner medulla containing numerous blood vessels and dense fibrous connective tissue.</p>
 
@@ -34,7 +34,7 @@ weight: 0
 
 <h3>#63 Ovary, Adult Human, <span class="caps">H&amp;E </span></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/63.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_063.jpg" src="/assets/images/slide_063-thumb-170x143-1536.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/63.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/63.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_063.jpg" src="/assets/images/slide_063-thumb-170x143-1536.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/63.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>Note the scarcity of primary follicles, suggesting that this ovary is from an older woman. Identify a corpus albicans (the connective tissue scar remaining from a degenerated corpus luteum). </p>
 
@@ -42,7 +42,7 @@ weight: 0
 
 <h3>#64 Ovary, Corpus Luteum of Pregnancy</h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/64.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_064.jpg" src="/assets/images/slide_064-thumb-170x143-1539.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/64.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/64.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_064.jpg" src="/assets/images/slide_064-thumb-170x143-1539.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/64.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>Compare the development of this corpus luteum of pregnancy (probably from the first trimester) with that of the recently formed corpus luteum of slide #63. Note particularly the increase in thickness of the granulosa luteal layer as compared to the thin, peripheral zone of theca luteal cells. The extensive vacuolization of the granulosa luteal cells is due to the extraction of its abundant lipid droplets. This reflects the importance of the corpus luteum (particularly the granulosa lutein cells) as the primary ovarian source of the steroid hormone progesterone.</p>
 
@@ -52,4 +52,4 @@ Be certain that you understand the changes that occur within the follicle during
 Consider the hormones of the anterior pituitary involved in follicular growth and ovulation.</p>
 						
 						
-						</div>
+</div>
