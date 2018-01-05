@@ -14,7 +14,7 @@ type: page
 
 <p>Finally, in order to preserve the section which has been made from a block of fixed tissues and stained, it is mounted on a glass slide and covered with a thin cover glass by means of a transparent substance which hardens and seals the preparation to make it permanent. Some tissues are stained and then mounted. More often the tissue is placed on the slide first and then stained. The mounting medium used to attach the coverslip must have a refractive index similar to that of the glass slide and cover slip to prevent distortion.</p>
 <!-- don't touch this code --><ol>
-<li><a href="http://histologylab.ccnmtl.columbia.edu/histological_techniques/fixation.html">Fixation</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/histological_techniques/embedding.html">Embedding</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/histological_techniques/staining.html">Staining</a></li><li><a href="http://histologylab.ccnmtl.columbia.edu/histological_techniques/staining_methods.html">Staining Methods Used in This Lab Collection</a></li>
+<li><a href="/histological_techniques/fixation/">Fixation</a></li><li><a href="/histological_techniques/embedding/">Embedding</a></li><li><a href="/histological_techniques/staining/">Staining</a></li><li><a href="/histological_techniques/staining/">Staining Methods Used in This Lab Collection</a></li>
 </ol><!-- don't touch this code -->
 
 </div>
