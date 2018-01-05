@@ -4,3 +4,8 @@
     padding: 5px 11px 5px 5px;
     border: 1px solid #ccc;
 }
+
+.slidepopup {
+    @include clearfix();
+    margin-bottom: 0.75em;
+}
