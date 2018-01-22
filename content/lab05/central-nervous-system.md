@@ -11,9 +11,9 @@ weight: 0
 
 <h3><u>#85 Spinal Cord, Cross section (Nissl stain)</u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/85.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_085.jpg" src="/assets/images/slide_085-thumb-170x143-1599.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/85.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
-
 <p><img src="/assets/images/85%20spinal%20cord%20cross%20section%20nissl%20stain.jpg" style="width:136px; height:150px; float:right;">At low power identify the centrally located butterfly or H-shaped arrangements of the <u>gray matter</u>. Identify the white and gray matter, and the dorsal (posterior) and ventral (anterior) horns of the gray matter. How is the structure of the dorsal side of the spinal cord different from the ventral side?</p>
+
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/85.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_085.jpg" src="/assets/images/slide_085-thumb-170x143-1599.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/85.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>With medium magnification, identify the cell bodies of the large motor neurons in the anterior horn of the gray matter.  Identify the basophilic <u>Nissl substance</u>.  To what structures at the electron microscopic level do the Nissl bodies correspond?</p>
 

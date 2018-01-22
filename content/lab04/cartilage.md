@@ -15,17 +15,17 @@ weight: 0
 
 <h3><u>#5 Trachea (H&amp;E)</u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/05.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_005.jpg" src="/assets/images/slide_005-thumb-170x143-1407.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/05.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
-
 <p><img src="/assets/images/5%20cartilage.jpg" style="width:112px; height:150px; float:right;">At low power, locate the incomplete rings of hyaline cartilage in the wall of the trachea. At higher magnification observe that a <u>perichondrium</u> surrounds the cartilage; this merges with the cartilage on one side and with the surrounding connective tissue of the other side. Blood vessels within the perichondrium provide the blood supply for the avascular cartilage. <u>Chondroblasts</u> are cells adjacent to the perichondrium and recently derived from it. They are not yet completely embedded in the matrix. Mature cartilage cells or <u>chondrocytes</u> are surrounded by matrix and lie within spaces called <u>lacunae</u>. In life the chondrocytes completely fill the lacunae. Note that the cartilage <u>matrix</u> is relatively homogeneous and basophilic. This is due to the masking of the collagen fibers by the high concentration of the glycosaminoglycans in the ground substance.</p>
+
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/05.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_005.jpg" src="/assets/images/slide_005-thumb-170x143-1407.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/05.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <h2>Elastic Cartilage</h2>
 
 <h3><u>#6 External Ear (Elastic Stain)</u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/06.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_006.jpg" src="/assets/images/slide_006-thumb-170x143-1410.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/06.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
-
 <p><img src="/assets/images/6%20external%20ear.jpg" style="width:156px; height:150px; float:right;">Elastic cartilage provides support with flexibility. The general organization of this type of cartilage is similar to that of hyaline cartilage, except that <u>elastic fibers</u> predominate over collagen fibers in the matrix. Elastic fibers are stained specifically (black) by the Weigert's stain. Where else does elastic cartilage occur in the body? <br clear="all"></p>
+
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/06.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_006.jpg" src="/assets/images/slide_006-thumb-170x143-1410.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/06.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <h2>Fibrocartilage</h2>
 

@@ -9,9 +9,9 @@ weight: 0
 <div class="entrybody">
 						<h3><u><b>#50 Kidney, (H&amp;E)</b></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/50.svs/view.apml?%20target=" _blank><img alt="Thumbnail image for slide_050.jpg" src="/assets/images/slide_050-thumb-170x143-1503.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/50.svs/view.apml?%20target=" _blank>Open with WebViewer</a></div>
-
 <p>Identify the outer, brighter staining cortex and the central, paler staining medulla. The cortex is characterized by round capillary tufts called <u>glomeruli</u> within the <u>renal corpuscles</u>. The base of the medullary pyramid lies below the cortex, and the apex of the pyramid projects or empties into the <u>renal pelvis</u>. The <u>hilum</u> of the kidney is the site of entrance and exit of the renal artery, vein and ureter. Note the abundance of white fat in this region.</p>
+
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/50.svs/view.apml?%20target=" _blank><img alt="Thumbnail image for slide_050.jpg" src="/assets/images/slide_050-thumb-170x143-1503.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/50.svs/view.apml?%20target=" _blank>Open with WebViewer</a></div>
 
 <p>Examine the junction between cortex and medulla.  This junction is irregular.  The <u>cortex</u> is subdivided into alternating regions: 1) the <u>cortical labyrinth</u> consists of glomeruli and convoluted tubules and 2) the <u>medullary rays</u> consist primarily of radially directed straight segments of the loop of Henle and collecting tubules. A <u>kidney lobule</u> consists of a medullary ray and the portions of the adjacent cortical labyrinth.  The medulla is further sub-divided into an outer zone adjacent to the cortex and an inner zone including the tip of the pyramid (which is called the <u>papilla</u>).</p>
 
@@ -50,17 +50,17 @@ weight: 0
 
 <h3><u><b>#103 Kidney, Periodic acid Schiff (PAS) reaction and hematoxylin</b></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/103.svs/view.apml?%20target=" _blank><img alt="Thumbnail image for slide_103.jpg" src="/assets/images/slide_103-thumb-170x143-1635.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/103.svs/view.apml?%20target=" _blank>Open with WebViewer</a></div>
-
 <p><img src="/assets/images/103%20Kidney%20-%20PAS%20stain.jpg" style="width:194px; height:150px; float:right;">Orient yourself as with the previous slide, and then examine the cortical labyrinth with medium power. Locate a region with several renal corpuscles.  The staining differences of the general cytoplasm in the two types of convoluted tubules are not as distinct with this stain as with <span class="caps">H&amp;E, </span>but the <u>proximal convoluted tubules</u> can be readily identified by the <span class="caps">PAS</span>-positive <u>brush border</u> stained red or magenta at its luminal surface.  Glomeruli and proximal and distal convoluted tubules are all sharply demarcated at their outer surfaces by <span class="caps">PAS, </span>since this is also an excellent stain for demonstrating <u>basement membranes</u>.  Examine the tubules and glomeruli under higher magnification and identify all the components of the cortical labyrinth.  Note regions in which the glomeruli have been section through the urinary and/or vascular pole&lt;.  At the vascular pole, look for examples of the <u>macula densa</u> and the <u>juxtaglomerular cells</u>.  Within the glomerulus, examine the <u>parietal epithelium</u> of Bowman's capsule and the <u>visceral epithelium</u> of the glomerulus.  Be sure you understand the cells that form the visceral epithelium and the composition of the glomerular filter.</p>
+
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/103.svs/view.apml?%20target=" _blank><img alt="Thumbnail image for slide_103.jpg" src="/assets/images/slide_103-thumb-170x143-1635.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/103.svs/view.apml?%20target=" _blank>Open with WebViewer</a></div>
 
 <p>Examine electron micrographs of the <u>glomeruli</u>, <u>proximal</u> and <u>distal convoluted tubules</u> in your textbook and in the lab, and correlate the <span class="caps">PAS</span>-positive structures evident with the light microscope with their ultrastructural counterparts.  What is the functional significance of the occurrence of a brush border in the proximal tubule?  Be sure you understand the significance of <span class="caps">PAS </span>staining.</p>
 
 <h3><u><b>#49 Kidney, (H&amp;E)</b></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/49.svs/view.apml?%20target=" _blank><img alt="Thumbnail image for slide_049.jpg" src="/assets/images/slide_049-thumb-170x143-1500.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/49.svs/view.apml?%20target=" _blank>Open with WebViewer</a></div>
-
 <p>Examine the cortical labyrinth and rays as described previously. Be certain that you understand the blood supply of the renal corpuscle, the convoluted tubules, and the loop of Henle, and the functional significance of these.  Consult your textbook and its illustrations.  What are the components of the arterial portal system of the kidney?</p>
+
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/49.svs/view.apml?%20target=" _blank><img alt="Thumbnail image for slide_049.jpg" src="/assets/images/slide_049-thumb-170x143-1500.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/49.svs/view.apml?%20target=" _blank>Open with WebViewer</a></div>
 						
 						
 </div>

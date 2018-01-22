@@ -11,9 +11,9 @@ weight: 3
 
 <h3>Slide #112: Whitefish Mitosis</h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/112.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_112.jpg" src="/assets/images/slide_112-thumb-170x143-1653.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/112.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
-
 <p>The whitefish embryo has been stained with hematoxylin and eosin (H&amp;E).  Cells are dividing mitotically.  Moreover, since cells are dividing asynchronously, there are examples of cells at all stages of the cell cycle.  Assess <u>nuclear envelope breakdown</u>, <u>chromosome condensation</u>, <u>mitotic spindle development</u>, and location of <u>condensed chromosomes</u> in the whitefish mitotic cells.  On the basis of these parameters, identify and determine the distinguishing features of cells in <u>prophase</u>, <u>metaphase</u>, <u>anaphase</u> (A and B) and <u>telophase</u>. </p>
+
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/112.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_112.jpg" src="/assets/images/slide_112-thumb-170x143-1653.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/112.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 						
 						
 </div>
