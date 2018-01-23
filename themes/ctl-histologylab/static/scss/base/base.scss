@@ -5,3 +5,29 @@
     width: fit-content;
     @include clearfix();
 }
+
+h1.display-3 {
+    margin: 0.5em 0em;
+    text-align: center;
+}
+
+.entrybody, .pagecontentbody { 
+    margin: 0em 9em;
+
+    h2, h3 {
+        margin-top: 1.5em;
+
+        &:first-child {
+            margin-top: 0em;
+        }
+    }
+
+    img {
+        margin: 0em 0em 1em 1em;
+    }
+}
+
+div.back-to-lab {
+    margin: 2em 0em;
+}
+
