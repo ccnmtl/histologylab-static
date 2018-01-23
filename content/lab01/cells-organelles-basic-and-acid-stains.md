@@ -20,7 +20,7 @@ weight: 0
 
 <h3>#39 Colon. <span class="caps">H&amp;E</span></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/39.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_039.jpg" src="/assets/images/slide_039-thumb-170x143-1479.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/39.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
-
 <p><img src="/assets/images/39%20colon%20%281%29.jpg" style="width:207px; height:145px; float:right;">This slide illustrates different kinds of cells; do not be concerned at this time with the structure of the colon. Large numbers of cells are seen. Nuclei are basophilic and are stained <u>blue</u>. At lower magnifications they appear as blue dots and at higher magnifications chromatin and <u>nucleoli</u> may be identified within the nucleus. Surrounding the nucleus is the acidophilic cytoplasm stained <u>pink</u> (due to the positive charges on arginine and lysine). The luminal surface (center of the slide) is smooth and consists of pale cells (called Goblet cells), absorptive cells, and enteroendocrine cells that make up the mucosa. These cells are forming columnar structures called intestinal glands. The free surface of the cell, facing a lumen, is referred to as the cell <u>apex</u> and the opposite surface is the cell <u>base</u>. The lateral borders should be seen and contain structures that connect the cells together. Note that (luminal) mucosa is densely packed with cells arranged in rows. </p>
+
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/39.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_039.jpg" src="/assets/images/slide_039-thumb-170x143-1479.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/39.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 </div>

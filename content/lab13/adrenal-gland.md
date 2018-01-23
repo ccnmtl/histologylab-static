@@ -28,9 +28,9 @@ This slide illustrates clearly the classical zonation of the adrenal gland. You 
 
 <h3><u><b>#71 Adrena, bichromate fixation</b></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/71.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_071.jpg" src="/assets/images/slide_071-thumb-170x143-1560.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/71.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
-
 <p>Study this slide in the same way as the previous slide.  The cortical zones are not as clear. The tissue surrounding the central vein may not be medullary but instead may be in-growths of cortical tissue.  The chromaffin reaction following bichromate fixation results in differential staining of epinephrine and norepinephrine cells, the latter are stained more darkly brown. There are preganglionic sympathetic fibers arranged in nerve bundles in the medulla.  </p>
+
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/71.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_071.jpg" src="/assets/images/slide_071-thumb-170x143-1560.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/71.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>What hormone is produced by the zona glomerulosa? By the zona fasciculata? By the zona reticularis? By the medulla? What hormones regulate the function of the cortex? How is medullary function regulated?</p>
 						
