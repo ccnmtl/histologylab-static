@@ -12,7 +12,9 @@ h1.display-3 {
 }
 
 .entrybody, .pagecontentbody { 
-    margin: 0em 9em;
+    @include media-breakpoint-up(lg) {
+        margin: 0em 9em;
+    }
 
     h2, h3 {
         margin-top: 1.5em;
