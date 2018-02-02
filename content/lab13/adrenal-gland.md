@@ -11,7 +11,7 @@ weight: 1
 
 <h3><u><b>#72 Adrenal, bichromate fixation</b></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/72.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_072.jpg" src="/assets/images/slide_072-thumb-170x143-1563.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/72.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/72.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_072.jpg" src="/assets/images/slide_072-thumb-170x143-1563.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/72.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 This slide illustrates clearly the classical zonation of the adrenal gland. You should be able to distinguish 5 zones in the organ: 1) the outer connective tissue <u>capsule</u>, 2) a thin <u>zona glomerulosa</u> just beneath this, 3) the wide <u>zona fasciculata</u>, 4) a thin <u>zona reticularis</u>, 5) the central <u>medulla</u>, within which lies the large central vein. Study the various zones in detail at higher magnification.<br>
 <div style="text-align: center;"><img src="/assets/images/72%20adrenal%20-%20zones.jpg" style="width:630px; height:130px;"></div>
@@ -30,7 +30,7 @@ This slide illustrates clearly the classical zonation of the adrenal gland. You 
 
 <p>Study this slide in the same way as the previous slide.  The cortical zones are not as clear. The tissue surrounding the central vein may not be medullary but instead may be in-growths of cortical tissue.  The chromaffin reaction following bichromate fixation results in differential staining of epinephrine and norepinephrine cells, the latter are stained more darkly brown. There are preganglionic sympathetic fibers arranged in nerve bundles in the medulla.  </p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/71.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_071.jpg" src="/assets/images/slide_071-thumb-170x143-1560.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/71.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/71.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_071.jpg" src="/assets/images/slide_071-thumb-170x143-1560.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/71.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>What hormone is produced by the zona glomerulosa? By the zona fasciculata? By the zona reticularis? By the medulla? What hormones regulate the function of the cortex? How is medullary function regulated?</p>
 						

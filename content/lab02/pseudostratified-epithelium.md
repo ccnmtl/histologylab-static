@@ -11,7 +11,7 @@ weight: 1
 
 <p>Pseudostratified epithelium appears to be stratified as nuclei are seen at various levels.  In fact all of the cells rest on the basal lamina, but not all of the cells have apices that reach the lumen.  The cells that are confined to the base are stem cells that are the sources of the cells whose apices do reach the lumen. </p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/05.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_005.jpg" src="/assets/images/slide_005-thumb-170x143-1407.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/05.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/05.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_005.jpg" src="/assets/images/slide_005-thumb-170x143-1407.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/05.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>Identify the two major types of cell that reach the lumen.  What are their characteristics?   What is responsible for the eosinophilic line at the apex of the majority of the cells?  Note the position of the nuclei.</p>
 						

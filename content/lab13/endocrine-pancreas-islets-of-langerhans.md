@@ -11,7 +11,7 @@ weight: 4
 
                         <h3><u><b>#107 Pancreas thin section, Acid fuchsin toluidine blue</b></u></h3>
 
-                        <div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/107.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_107.jpg" src="/assets/images/slide_107-thumb-170x143-1641.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/107.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+                        <div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/107.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_107.jpg" src="/assets/images/slide_107-thumb-170x143-1641.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/107.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
                         <p>Islets of Langerhans are clearly visible interspersed within the basophilic acini of the exocrine pancreas. Keep in mind the classes of hormone producing cells are not distinguishable.  For a more detailed description of the exocrine pancreas see part two of the gastrointestinal system lab.</p>
                                                 

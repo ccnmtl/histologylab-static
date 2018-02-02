@@ -15,7 +15,7 @@ weight: 3
 
 <p>In the exocrine portion of the pancreas on this slide note that the basal cytoplasm of the acinar cells is highly basophilic. Zymogen granules at the apex are very acidophilic. The cytoplasm of centro-acinar cells and duct cells is relatively unstained. This slide clearly demonstrates the duct system in the pancreas. Islets of Langerhans are clearly visible, however the classes of hormone producing cells are not distinguishable.</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/107.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_107.jpg" src="/assets/images/slide_107-thumb-170x143-1641.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/107.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/107.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_107.jpg" src="/assets/images/slide_107-thumb-170x143-1641.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/107.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 						
 						
 </div>
