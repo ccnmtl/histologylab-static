@@ -38,7 +38,7 @@ Note the high vascular density in this area: one capillary loop for each chondro
 
 <p>This is a longitudinal section cut through an interphalangeal joint. Locate the ends of two long bones participating in the joint and identify the <u>articular cartilage</u>. Identify the <u>epiphyseal disk</u>, the <u>metaphysis</u>, the <u>marrow cavity</u>, and the <u>diaphyseal bone</u>. In the epiphyses where growth in length is occurring, note the zones of reserve cells, proliferation, maturation, hypertrophy, calcification, ossification and resorption. What structure in mature bone is created by the zone of resportion?</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/97.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_097.jpg" src="/assets/images/slide_097-thumb-170x143-1620.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/97.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/97.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_097.jpg" src="/assets/images/slide_097-thumb-170x143-1620.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/97.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>Each of these bones has a primary center of ossification. The zone of endochondral ossification spreads from the <u>primary ossification center</u> toward the ends of the cartilage.  These slides do not show <u>secondary ossification centers</u>.</p>
 
@@ -48,7 +48,7 @@ Note the high vascular density in this area: one capillary loop for each chondro
 
 <p>As the primary ossification center of the diaphysis advances toward the epiphyses, each epiphyseal cartilage continues to grow and the whole cartilage model increases in length.  This increase in length and extension of the primary ossification center results in a sequence of changes in the chondrocytes of the epiphyses, which is similar to that described for the establishment of the primary center.  </p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/96.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_096.jpg" src="/assets/images/slide_096-thumb-170x143-1617.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/96.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/96.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_096.jpg" src="/assets/images/slide_096-thumb-170x143-1617.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/96.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>In the epiphyseal growth plate, observe the zones of reserve cells, proliferation, maturation, hypertrophy, calcification, ossification and resorption. </p>
 
@@ -57,7 +57,7 @@ Note the high vascular density in this area: one capillary loop for each chondro
 
 <p><u>Secondary ossification centers</u> have developed in the epiphyses. Enlargement of the epiphysis occurs by growth of the articular cartilage. When growth ceases, the epiphyseal disk is entirely replaced by spongy bone and marrow ("closure of the epiphyses"), resulting in a visible <u>epiphyseal line</u>.</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/95.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_095.jpg" src="/assets/images/slide_095-thumb-170x143-1614.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/95.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/95.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_095.jpg" src="/assets/images/slide_095-thumb-170x143-1614.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/95.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 <p>This slide includes a diarthrodial joint. In synovial or diarthrodial joints, articular cartilage caps the ends of the bones, which are kept apart by a synovial cavity filled with synovial fluid. The articulation is enclosed by a dense fibrous capsule, which is continuous with the periosteum over the bones. Internal to this is the synovium, a secretory membrane formed by a layer of collagenous fibers interspersed with flattened fibroblasts (synovial cells). This membrane is commonly thrown into folds (synovial villi) that project into the synovial cavity.</p>
 						

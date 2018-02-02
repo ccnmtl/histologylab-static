@@ -23,7 +23,7 @@ weight: 0
 
 <h3><u>#12 Blood smear, Wright's stain</u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/12.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_012.jpg" src="/assets/images/slide_012-thumb-170x143-1422.jpg" width="170" height="143" class="mt-image-left"></a><br><a href="http://virtualslides.cumc.columbia.edu/12.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/12.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_012.jpg" src="/assets/images/slide_012-thumb-170x143-1422.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/12.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
 
 To study the cell types in your preparations first scan the smear at low power and select a region where the red cells do not overlie one another and where they are stained pink. After finding an area that is well smeared and well stained, use the highest magnification to examine the blood cells, particularly the leukocytes. Identify <u>neutrophils, lymphocytes, eosinophils, and monocytes</u>. This slide does not have basophils as they account for less than one percent of the total number of leukocytes. <u>Platelets</u> will also be found. Use the chart and images in the lab manual to assist in identifying these different cell types.<br>
 <img src="/assets/images/12%20erythrocyte.jpg" style="width:146px; height:150px; float:left;"><div style="text-align: center;"><img src="/assets/images/12%20neutrophil.jpg" style="width:127px; height:150px;"><img src="/assets/images/12%20monocyte.jpg" style="width:145px; height:150px; float:right;"></div>
