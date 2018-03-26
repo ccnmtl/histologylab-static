@@ -1,36 +1,80 @@
-.slidepopup .thumbnail, .thumbnail {
-    padding: 5px;
-    border: 1px solid #ccc;
-    width: fit-content;
-    display: flex;
-    flex-flow: column nowrap;
-    @include clearfix();
+body
+{
+	background-color: rgba(238,238,238,1);
+	font-family: 'Oxygen', sans-serif;
 }
 
-h1.display-3 {
-    margin: 0.5em 0em;
-    text-align: center;
+#maincontent
+{
+	background-color: rgba(255,255,255,1);
+	padding: 0;
 }
 
+#globalnav { background-color: rgba(123,63,130,1); }
+
+footer { padding: 2em; }
+
+h1.display-5
+{
+	padding: 0.5em;
+	text-align: left;
+	color: white;
+	background-color: rgba(123,63,130,1);
+	background-image: url("../img/Parietal_cells.jpg");
+	background-position: center center;
+	background-size: 100%;
+	text-shadow: 1px 1px 1px rgba(0,0,0,1);
+}
+
+h2 { color: rgba(123,63,130,1); }
+
+.entrybody, .pagecontentbody { padding: 1em; }
+
+footer a, .entrybody a, .pagecontentbody a
+{
+	color: rgba(123,63,130,1);
+	text-decoration: underline;
+}
+
+footer a:hover, .entrybody a:hover, .pagecontentbody a:hover
+{
+	color: rgba(123,63,130,.3);
+	text-decoration: none;
+}
+
+ol.breadcrumb
+{
+	margin: 0;
+	background-color: rgba(123,63,130,.3);
+	border-radius: 0px;
+}
+
+ol.breadcrumb a { color: rgba(123,63,130,1); }
+ol.breadcrumb .active { color: black; }
+
+.slidepopup .thumbnail, .thumbnail
+{
+	border-radius: 10px;
+	padding: 20px;
+	border: 1px solid #ccc;
+	width: fit-content;
+	display: flex;
+	flex-flow: column nowrap;
+}
+
+h2, h3
+{
+	margin-top: 1.5em;
+}
+
+p > img { margin: 0em 0em 1em 1em; }
+
+
+div.back-to-lab { margin: 2em 0em; }
+
+/*
 .entrybody, .pagecontentbody { 
     @include media-breakpoint-up(lg) {
-        margin: 0em 9em;
+
     }
-
-    h2, h3 {
-        margin-top: 1.5em;
-
-        &:first-child {
-            margin-top: 0em;
-        }
-    }
-
-    p > img {
-        margin: 0em 0em 1em 1em;
-    }
-}
-
-div.back-to-lab {
-    margin: 2em 0em;
-}
-
+*/
