@@ -8,3 +8,4 @@ scratch/
 *.pyc
 ve/
 scrape/histology/content/
+local.mk
