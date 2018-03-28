@@ -10,7 +10,7 @@ body
 	padding: 0;
 }
 
-#globalnav { background-color: rgba(123,63,130,1); }
+#globalnav { background-color: rgba(29,22,120,1); }
 
 footer { padding: 2em; }
 
@@ -19,14 +19,14 @@ h1.display-5
 	padding: 0.5em;
 	text-align: left;
 	color: white;
-	background-color: rgba(123,63,130,1);
-	background-image: url("../img/Parietal_cells.jpg");
+	background-color: rgba(29,22,120,1);
+	background-image: url("../img/logo_project.jpg");
 	background-position: center center;
 	background-size: 100%;
 	text-shadow: 1px 1px 1px rgba(0,0,0,1);
 }
 
-h2 { color: rgba(123,63,130,1); }
+h2 { color: rgba(29,22,120,1); }
 
 .entrybody, .pagecontentbody { padding: 1em; }
 
@@ -73,6 +73,19 @@ p > img { margin: 0em 0em 1em 1em; }
 
 
 div.back-to-lab { margin: 2em 0em; }
+
+@media only screen and (min-width: 992px) {
+    .entrybody, .pagecontentbody { 
+        padding: 6% 12% 6% 12%;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px)
+{
+ul.navbar-nav li a {text-align: center; display: block; width: 6.5em; line-height: 1.25em;}
+}
+
 
 /*
 .entrybody, .pagecontentbody { 
