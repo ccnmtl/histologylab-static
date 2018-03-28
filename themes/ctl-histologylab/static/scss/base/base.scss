@@ -34,24 +34,24 @@ h2 { color: rgba(29,22,120,1); }
 
 footer a, .entrybody a, .pagecontentbody a
 {
-	color: rgba(123,63,130,1);
+	color: rgba(29,22,120,1);
 	text-decoration: underline;
 }
 
 footer a:hover, .entrybody a:hover, .pagecontentbody a:hover
 {
-	color: rgba(123,63,130,.3);
+	color: rgba(29,22,120,.3);
 	text-decoration: none;
 }
 
 ol.breadcrumb
 {
 	margin: 0;
-	background-color: rgba(123,63,130,.3);
+	background-color: rgba(29,22,120,.3);
 	border-radius: 0px;
 }
 
-ol.breadcrumb a { color: rgba(123,63,130,1); }
+ol.breadcrumb a { color: rgba(29,22,120,1); }
 ol.breadcrumb .active { color: black; }
 
 .slidepopup .thumbnail, .thumbnail
