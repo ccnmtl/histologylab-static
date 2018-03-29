@@ -74,16 +74,17 @@ p > img { margin: 0em 0em 1em 1em; }
 
 div.back-to-lab { margin: 2em 0em; }
 
+/*padding for small and large laptop views*/
 @media only screen and (min-width: 992px) {
     .entrybody, .pagecontentbody { 
         padding: 6% 12% 6% 12%;
     }
 }
 
-
+/*smaller search input for small laptop views*/
 @media (min-width: 992px) and (max-width: 1199px)
 {
-ul.navbar-nav li a {text-align: center; display: block; width: 6.5em; line-height: 1.25em;}
+input.form-control.mr-sm-2 {width: 50%;}
 }
 
 
