@@ -1,16 +1,20 @@
+// Color Variables
+$primary_color: rgb(29,22,120);
+$background_color: rgb(238,238,238);
+
 body
 {
-	background-color: rgba(238,238,238,1);
+	background-color: rgba($background_color,1);
 	font-family: 'Oxygen', sans-serif;
 }
 
 #maincontent
 {
-	background-color: rgba(255,255,255,1);
+	background-color: rgba(white,1);
 	padding: 0;
 }
 
-#globalnav { background-color: rgba(123,63,130,1); }
+#globalnav { background-color: rgba($primary_color,1); }
 
 footer { padding: 2em; }
 
@@ -19,14 +23,14 @@ h1.display-5
 	padding: 0.5em;
 	text-align: left;
 	color: white;
-	background-color: rgba(123,63,130,1);
-	background-image: url("../img/Parietal_cells.jpg");
+	background-color: rgba($primary_color,1);
+	background-image: url("../img/logo_project.jpg");
 	background-position: center center;
 	background-size: 100%;
-	text-shadow: 1px 1px 1px rgba(0,0,0,1);
+	text-shadow: 1px 1px 1px rgba(black,1);
 }
 
-h2 { color: rgba(123,63,130,1); }
+h2 { color: rgba($primary_color,1); }
 
 .entrybody, .pagecontentbody { padding: 1em; }
 
@@ -34,24 +38,24 @@ h2 { color: rgba(123,63,130,1); }
 
 footer a, .entrybody a, .pagecontentbody a
 {
-	color: rgba(123,63,130,1);
+	color: rgba($primary_color,1);
 	text-decoration: underline;
 }
 
 footer a:hover, .entrybody a:hover, .pagecontentbody a:hover
 {
-	color: rgba(123,63,130,.3);
+	color: rgba($primary_color,.3);
 	text-decoration: none;
 }
 
 ol.breadcrumb
 {
 	margin: 0;
-	background-color: rgba(123,63,130,.3);
+	background-color: rgba($primary_color,.3);
 	border-radius: 0px;
 }
 
-ol.breadcrumb a { color: rgba(123,63,130,1); }
+ol.breadcrumb a { color: rgba($primary_color,1); }
 ol.breadcrumb .active { color: black; }
 
 .slidepopup .thumbnail, .thumbnail
@@ -74,9 +78,15 @@ p > img { margin: 0em 0em 1em 1em; }
 
 div.back-to-lab { margin: 2em 0em; }
 
-/*
-.entrybody, .pagecontentbody { 
-    @include media-breakpoint-up(lg) {
-
+/*padding for small and large laptop views*/
+@include media-breakpoint-up(lg) {
+    .entrybody, .pagecontentbody { 
+        padding: 6% 12% 6% 12%;
     }
-*/
+}
+
+
+/*smaller search input for small laptop views*/
+@include media-breakpoint-only(lg) {
+    input.form-control.mr-sm-2 {width: 50%;}
+}
