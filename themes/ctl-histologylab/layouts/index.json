@@ -1,0 +1,4 @@
+{{ range $page := where .Site.Pages "Type" "ne" "asset" }}
+{{ if $page.Plain }}
+{{ dict "title" $page.Title "url" $page.RelPermalink "type" $page.Type "content" $page.Plain | jsonify }}
+{{ end }}{{ end }}
