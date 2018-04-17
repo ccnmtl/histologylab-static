@@ -1,4 +1,2 @@
-{{ range $page := where .Site.Pages "Type" "ne" "asset" }}
-{{ if $page.Plain }}
-{{ dict "title" $page.Title "url" $page.RelPermalink "type" $page.Type "content" $page.Plain | jsonify }}
-{{ end }}{{ end }}
+{
+    "pages": [{{ range $index, $page := where .Site.Pages "Type" "ne" "asset" }}{{ if $page.Plain }}{{ if $index }}, {{ end }}{{ dict "hash" (md5 $page.RelPermalink) "title" $page.Title "url" $page.RelPermalink "type" $page.Type "body" $page.Plain | jsonify }}{{ end }}{{ end }}] }

@@ -4,7 +4,7 @@
   "description": "Hugo site for Histology Lab",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha themes/ctl-histologylab/static/js/tests",
     "watch-scss": "node-sass --output themes/ctl-histologylab/static/css themes/ctl-histologylab/static/scss/main.scss && postcss -u autoprefixer -r themes/ctl-histologylab/static/css/main.css",
     "build-scss": "nodemon -e scss -x 'npm run watch-scss'"
   },
@@ -25,7 +25,11 @@
     "eslint-plugin-security": "^1.4.0",
     "node-sass": "^4.7.2",
     "nodemon": "^1.12.5",
-    "postcss-cli": "^4.1.1"
+    "postcss-cli": "^4.1.1",
+    "jquery": "^3.3.1",
+    "jsdom": "~11.5.1",
+    "lunr": "~2.1.2",
+    "mocha": "~4.0.0"
   },
   "homepage": "https://github.com/ccnmtl/histologylab-static#readme",
   "dependencies": {}
