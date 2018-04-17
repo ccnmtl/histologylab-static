@@ -16,12 +16,9 @@
         <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "slide_index" }} active{{ end }}{{ end }}'> <a class="nav-link" itemprop="url" href="/slide_index/"><span itemprop="name">Slides</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a> </li>
         <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "help" }} active{{ end }}{{ end }}'> <a class="nav-link" itemprop="url" href="/help/"><span itemprop="name">Help</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a> </li>
         <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} active{{ end }}{{ end }}'> <a class="nav-link" itemprop="url" href="/about/"><span itemprop="name">About</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a> </li>
+        <li class='nav-item{{ if .IsPage }}{{ if eq .File.BaseFileName "search" }} active{{ end }}{{ end }}'> <a class="nav-link" itemprop="url" href="/search/"><span itemprop="name">Search</span>{{ if .IsPage }}{{ if eq .File.BaseFileName "about" }} <span class="sr-only">(current)</span>{{ end }}{{ end }}</a> </li>
         </ul>
     
-    <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="search" placeholder="I'm looking for..." aria-label="Search">
-        <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Search</button>
-    </form>
     
     </div>
 

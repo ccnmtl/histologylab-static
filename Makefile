@@ -17,7 +17,7 @@ PROD_URL=https://histologylab.ctl.columbia.edu/
 STAGING_BUCKET=histologylab.stage.ctl.columbia.edu
 PROD_BUCKET=histologylab.ctl.columbia.edu
 
-JS_FILES=themes/ctl-histologylab/static/js/
+JS_FILES=themes/ctl-histologylab/static/js/src
 
 all: eslint
 
