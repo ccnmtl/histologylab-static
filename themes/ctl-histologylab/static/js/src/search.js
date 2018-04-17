@@ -28,7 +28,7 @@ if (typeof require === 'function') {
 
         var me = this;
         items.forEach(function(d) {
-            me.data[d.title] = d;
+            me.data[d.hash] = d;
         });
     };
 
@@ -73,7 +73,7 @@ if (typeof require === 'function') {
 
     var initializeLunrIndex = function(items) {
         var idx = lunr(function() {
-            this.ref('title');
+            this.ref('hash');
             this.field('title');
             this.field('body');
             this.field('url');
@@ -157,9 +157,7 @@ if (typeof require === 'function') {
                     refreshEvents(search.results, 1);
                 });
 
-            }).fail(function(jqxhr, textStatus, error ) {
-            var err = textStatus + ", " + error;
-            console.log( "Request Failed: " + err );});
+            });
         });
     }
 
