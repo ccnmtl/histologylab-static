@@ -59,11 +59,11 @@ if (typeof require === 'function') {
         this.results.forEach(function(r) {
             var d = me.data[r.ref];
             var result = '<div class="search-result">' +
-                    '<a href="' + d.url + '">' +
-                    d.title +
-                    '</a>' +
-                    '<p>' + truncate(d.body) + '</p>' +
-                    '</div>';
+                '<a href="' + d.url + '">' +
+                d.title +
+                '</a>' +
+                '<p>' + truncate(d.body) + '</p>' +
+                '</div>';
 
             r.renderedString = result;
         });
@@ -98,11 +98,19 @@ if (typeof require === 'function') {
         var $container = jQuery('<div class="mv-topics" />');
         var start = (pageNum - 1) * ITEMS_ON_PAGE;
         var end = start + ITEMS_ON_PAGE;
-        for (var i = start; i < end && i < items.length; i++) {
-            $container.append(jQuery(
-                items[i].renderedString
-            ));
+        if (items.length > 0) {
+            for (var i = start; i < end && i < items.length; i++) {
+                $container.append(jQuery(
+                    items[i].renderedString
+                ));
+            }
+        } else {
+            var noResults = '<div class="search-result">' +
+                '<p>No results found.</p>' +
+                '</div>';
+            $container.append(noResults);
         }
+
         return $container;
     };
 
@@ -111,8 +119,11 @@ if (typeof require === 'function') {
      */
     var refreshEvents = function(items, pageNum) {
         $('.pagination-holder').pagination('updateItems', items.length);
+        // The classes below are needed create the markup needed for the Bootstrap pager
+        $('.pagination-holder > ul').addClass('pagination');
+        $('ul.pagination > li').addClass('page-item');
+        $('.page-item > span').addClass('page-link');
         clearSearch();
-        //jQuery('#search-results').append(renderEvents(items, pageNum));
         $('#search-results').append(renderEvents(items, pageNum));
     };
 
@@ -136,7 +147,7 @@ if (typeof require === 'function') {
                     items: items.length,
                     itemsOnPage: ITEMS_ON_PAGE,
                     useAnchors: false,
-                    cssStyle: 'light-theme',
+                    cssStyle: 'pagination',
                     onPageClick: function(pageNumber) {
                         if (search.results.length > 0 ||
                                 $('#q').val().length > 0) {
@@ -146,6 +157,7 @@ if (typeof require === 'function') {
                         }
                     }
                 });
+
 
                 search.doSearch('');
                 refreshEvents(search.results, 1);
