@@ -38,10 +38,10 @@ describe('Search.doSearch()', function() {
         s.doSearch('abc');
         assert.strictEqual(s.results.length, 0);
 
-        s.doSearch('hematopoiesis');
+        s.doSearch('hematopoiesi');
         assert.strictEqual(s.results.length, 2);
 
-        s.doSearch('the liver is the largest gland in the body');
+        s.doSearch('the liver is the largest gland');
         assert.strictEqual(s.results[0].ref, '913bf017ba988f08bdbdd026ba7b261b');
     });
 
