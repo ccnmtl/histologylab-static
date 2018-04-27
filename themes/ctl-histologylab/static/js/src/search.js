@@ -49,7 +49,9 @@ if (typeof require === 'function') {
         this.results = this.index.query(function(q) {
             mainTerm.forEach(function(param) {
                 if (param) {
-                    q.term(param.toLowerCase());
+                    q.term(param.toLowerCase(), {
+                        wildcard: lunr.Query.wildcard.TRAILING |
+                        lunr.Query.wildcard.TRAILING });
                 }
             });
         });
