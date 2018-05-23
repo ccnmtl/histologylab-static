@@ -34,7 +34,7 @@ type: page
 
     <ul>
     <li>Histology, A Text and Atlas, 7th ed., Michael H. Ross and Wojciech Pawlina, Lippincott Williams &amp; Wilkins, 2016</li>
-    <li>Junquiera's Basic Histology, Text and Atlas, 13th ed., Anthony L. Mescher, McGraw Hill, <span class="caps">NY,</span> 2013.</li>
+    <li>Junquiera's Basic Histology, Text and Atlas, 14th ed., Anthony L. Mescher, McGraw Hill, <span class="caps">NY,</span> 2016.</li>
     <li>Histology and Cell Biology, an Introduction to Pathology, 4th ed., Abraham L. Kierszenbaum, Mosby, 2016</li>
     </ul>
 
