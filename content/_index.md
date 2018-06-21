@@ -4,7 +4,7 @@ date: 2017-12-17
 type: page
 ---
 <div class="entrybody">
-    <p>This manual is a guide to work in the histology laboratory. Each topic is briefly introduced and this is followed by a list of slides, with commentary, to be studied in the laboratory period. The purpose of the manual is to enable the student to use time efficiently in the laboratory. You can also refer to the <a href="http://histologylab.ccnmtl.columbia.edu/HistologyLabManual.pdf"><span class="caps">PDF </span>version</a> of the manual.</p>
+    <p>This manual is a guide to work in the histology laboratory. Each topic is briefly introduced and this is followed by a list of slides, with commentary, to be studied in the laboratory period. The purpose of the manual is to enable the student to use time efficiently in the laboratory. You can also refer to the <a href="/HistologyLabManual.pdf"><span class="caps">PDF </span>version</a> of the manual.</p>
 
     <h2>Course Overview</h2>
 
