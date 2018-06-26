@@ -39,5 +39,6 @@ build-scss: $(JS_SENTINAL)
 
 clean:
 	rm -rf ve
+	rm -rf node_modules 
 
 .PHONY: clean
