@@ -15,14 +15,14 @@ weight: 7
 
 <p>What is the basis for the <span class="caps">PAS </span>stain? <i>Most carbohydrates react with periodic acid to produce aldehydes, which convert the colorless Schiff reagent to pink, or magenta.</i><br>
 <br>
-h2. #102 Small intestine, (Bodian/silver)<br>
+<h2> #102 Small intestine, (Bodian/silver)</h2>
 What types of intercellular junctions are commonly found in epithelia? <i>Junctional complexes (tight junctions plus zonula adherens), desmosomes, gap junctions</i></p>
 
 <h2>#5 Trachea</h2>
 
-<p>Identify the two major types of cell that reach the lumen. What are their characteristics? <i>Simple columnar ciliated epithelial cells and goblet cells (appear empty). What is responsible for the eosinophilic line at the apex of the majority of the cells? Basal bodies</i><br>
+<p>Identify the two major types of cell that reach the lumen. What are their characteristics? <i>Simple columnar ciliated epithelial cells and goblet cells (appear empty). What is responsible for the eosinophilic line at the apex of the majority of the cells? Basal bodies</i></p>
  <br>
-h2. #33 Esophagus, <span class="caps">H&amp;E</span></p>
+<h2> #33 Esophagus, <span class="caps">H&amp;E</span></h2>
 
 <p>Which part of the slide image corresponds to the esophageal lumen? <i>The bottom of the image would correspond to lumen of the esophagus because the epithelium is oriented facing the bottom of the image.</i></p>
 						
