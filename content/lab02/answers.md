@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 2
 lab_topic_name: "lab02"
-weight: 6
+weight: 7
 ---
 <div class="entrybody">
 						<h2>#115 Gallbladder, Human. <span class="caps">H&amp;E</span></h2>
@@ -13,8 +13,8 @@ weight: 6
 
 <h2>#101 Small intestine (PAS and hematoxylin)</h2>
 
-<p>What is the basis for the <span class="caps">PAS </span>stain? <i>Most carbohydrates react with periodic acid to produce aldehydes, which convert the colorless Schiff reagent to pink, or magenta</i><br>
-.<br>
+<p>What is the basis for the <span class="caps">PAS </span>stain? <i>Most carbohydrates react with periodic acid to produce aldehydes, which convert the colorless Schiff reagent to pink, or magenta.</i><br>
+<br>
 h2. #102 Small intestine, (Bodian/silver)<br>
 What types of intercellular junctions are commonly found in epithelia? <i>Junctional complexes (tight junctions plus zonula adherens), desmosomes, gap junctions</i></p>
 
