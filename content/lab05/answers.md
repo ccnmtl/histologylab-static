@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 5
 lab_topic_name: "lab05"
-weight: 6
+weight: 7
 ---
 <div class="entrybody">
 						<h2>#85 Spinal Cord, Cross section (Nissl stain) </h2>

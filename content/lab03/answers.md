@@ -4,7 +4,7 @@ date: 2017-12-17
 type: lab_activity
 lab_topic_number: 3
 lab_topic_name: "lab03"
-weight: 6
+weight: 7
 ---
 <div class="entrybody">
 						<h2>#16 Aorta, Cross Section </h2>
