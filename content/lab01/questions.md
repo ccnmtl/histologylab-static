@@ -5,6 +5,7 @@ type: lab_activity
 lab_topic_number: 1
 lab_topic_name: "lab01"
 weight: 5
+h5p_interactives: ["crazy-question", "interactive-video"]
 ---
 <div class="entrybody">
 						

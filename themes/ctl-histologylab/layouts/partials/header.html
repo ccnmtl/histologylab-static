@@ -32,6 +32,10 @@
 
     <link href="https://fonts.googleapis.com/css?family=Oxygen" rel="stylesheet">
 
+    {{ if .Params.h5p_interactives }}
+    <link rel="stylesheet" href="/css/h5p.css" type="text/css" media="all" />
+    <script type="text/javascript" src="/js/lib/h5p-standalone-main.min.js"></script>
+    {{ end }}
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage"{{ if .IsPage }} class="{{ .Type }}"{{ end }}>

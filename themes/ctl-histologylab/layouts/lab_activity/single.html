@@ -11,10 +11,35 @@
 
 {{ partial "cover.html" . }}
 
+{{ if .Params.h5p_interactives }}
+<div class="entrybody">
+    {{ range $idx, $i := .Params.h5p_interactives }}
+    <div class="h5p-{{ $idx }}-{{ $i }}"></div>
+    {{ end }}
+</div>
+{{ end }}
+
 <div class="entrybody">
     <div class="back-to-lab">
         <a href="/{{ .Params.lab_topic_name }}/">&larr; Back to {{ range where ( where .Site.Pages "Type" "lab_topic" ) "Weight" .Params.lab_topic_number }}{{ .Title }}{{ end }}</a>
     </div>
 </div>
+
+{{ if .Params.h5p_interactives }}
+<script type="text/javascript">
+    (function($) {
+        $(function() {
+    {{ range $idx, $i := .Params.h5p_interactives }}
+            $('.h5p-{{ $idx }}-{{ $i }}').h5p({
+                id: {{ $idx }},
+                frameJs: "/js/lib/h5p-standalone-frame.min.js",
+                frameCss: "/css/h5p.css",
+                h5pContent: "/h5p/{{ $i }}"
+            });
+    {{ end }}
+        });
+    })(H5P.jQuery);
+</script>
+{{ end }}
 
 {{ partial "footer.html" . }}
