@@ -12,7 +12,8 @@ weight: 5
 <h2>#115 Gall bladder, <span class="caps">H&amp;E</span></h2>
 
 <p>Why are the microvilli not visible on all cells lining the lumen?</p>
-<br>
+
+<p><b><span class="caps">QUESTIONS</span></b></p>
 <ol>
 <li>What are serial sections and why are they important?</li>
 <li>What is the relationship between heterochromatin and the synthetic activity of <span class="caps">DNA</span>?  What is the significance of the nuclear staining patterns that are described as euchromatic and heterochromatic? </li>
