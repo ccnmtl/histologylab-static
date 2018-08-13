@@ -7,7 +7,8 @@ lab_topic_name: "lab06"
 weight: 5
 ---
 <div class="entrybody">
-						<h2>Skeletal Muscile</h2>
+
+<h2>Skeletal Muscile</h2>
 
 <h3>#3 Muscle and tendon junction, <span class="caps">H&amp;E </span></h3>
 
