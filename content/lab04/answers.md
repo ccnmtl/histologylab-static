@@ -7,7 +7,8 @@ lab_topic_name: "lab04"
 weight: 6
 ---
 <div class="entrybody">
-						<h2>#6 External Ear (Elastin Stain)</h2>
+
+<h2>#6 External Ear (Elastin Stain)</h2>
 
 <p>Where else does elastic cartilage occur in the body? <i>Eustachian tube and epiglottis.</i></p>
 
