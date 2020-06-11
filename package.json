@@ -28,7 +28,7 @@
     "postcss-cli": "^7.0.0",
     "jquery": "^3.5.0",
     "jsdom": "~16.2.2",
-    "mocha": "~7.2.0"
+    "mocha": "~8.0.1"
   },
   "homepage": "https://github.com/ccnmtl/histologylab-static#readme",
   "dependencies": {}
