@@ -1,5 +1,4 @@
-/* eslint-env jquery */
-/* eslint-env node */
+/* eslint-disable */
 
 $(document).ready(function() {
     var map = L.map('map', {
