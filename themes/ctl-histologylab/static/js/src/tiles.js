@@ -7,8 +7,7 @@ $(document).ready(function() {
     });
 
     var slideId = $('#map').data('slide-id');
-    var slide_url_format = 'https://ctl-locustempus-local.s3.amazonaws.com/slide' + slideId + '/{z}/{y}/{x}.jpg';
-
+    var slide_url_format = 'https://cuimc-it-path-test.s3.amazonaws.com/slide' + slideId + '/{z}/{y}/{x}.jpg';
     L.tileLayer(slide_url_format, {
         minZoom: 2,
         maxZoom: 9,
