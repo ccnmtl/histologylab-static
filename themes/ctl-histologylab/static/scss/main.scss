@@ -11,3 +11,9 @@
 @import 'base/base';
 @import 'layouts/nav';
 @import 'layouts/search';
+
+#map {
+    height: 800px;
+    position: relative;
+    background: black;
+}
