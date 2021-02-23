@@ -7,6 +7,7 @@ $(document).ready(function() {
     });
 
     var slideId = $('#map').data('slide-id');
+    var zoomMax = $('#map').data('zoom');
     var slide_url_format = 'https://cuimc-it-path-test.s3.amazonaws.com/slide' + slideId + '/{z}/{y}/{x}.jpg';
 
     //Sets bounds for dragging.
@@ -20,13 +21,13 @@ $(document).ready(function() {
 
     L.tileLayer(slide_url_format, {
         minZoom: 1,
-        maxZoom: 9,
+        maxZoom: zoomMax,
         noWrap: true
     }).addTo(map);
 
     var smallLayer = L.tileLayer(slide_url_format, {
         minZoom: 1,
-        maxZoom: 9
+        maxZoom: zoomMax
     })
 
     new L.Control.MiniMap(smallLayer, {
