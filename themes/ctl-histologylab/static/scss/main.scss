@@ -17,3 +17,12 @@
     position: relative;
     background: black;
 }
+#map:focus {
+    -webkit-box-shadow:0 0 10px purple;
+    -moz-box-shadow: 0 0 10px purple;
+    box-shadow:0 0 10px purple;
+}
+
+.leaflet-container a {
+    color: #2c4955 !important;
+}
