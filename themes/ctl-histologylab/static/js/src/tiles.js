@@ -19,10 +19,12 @@ $(document).ready(function() {
         map.panInsideBounds(bounds, { animate: false });
     });
 
+    var attribution = '&copy; Example attribution'
+
     L.tileLayer(slide_url_format, {
-        minZoom: 1,
-        maxZoom: zoomMax,
-        noWrap: true
+        minZoom: 2,
+        maxZoom:zoomMax,
+        attribution: attribution
     }).addTo(map);
 
     var smallLayer = L.tileLayer(slide_url_format, {
@@ -32,7 +34,6 @@ $(document).ready(function() {
 
     new L.Control.MiniMap(smallLayer, {
         toggleDisplay: true,
-        position: 'bottomleft',
         height: 200,
         width: 200}).addTo(map)
 
