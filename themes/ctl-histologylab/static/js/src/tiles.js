@@ -37,4 +37,6 @@ $(document).ready(function() {
         height: 200,
         width: 200}).addTo(map)
 
+    L.control.pan().addTo(map);
+
 });
