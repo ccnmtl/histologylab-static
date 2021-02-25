@@ -3,7 +3,9 @@
 $(document).ready(function() {
     var map = L.map('map', {
         center: [0,0],
-        zoom: 2
+        zoom: 2,
+        zoomControl: false,
+        zoomsliderControl: true
     });
 
     var slideId = $('#map').data('slide-id');
