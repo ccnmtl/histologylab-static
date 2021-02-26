@@ -21,7 +21,7 @@
     L.Control.Pan = L.Control.extend({
         options: {
             position: 'topleft',
-            panOffset: 500
+            panOffset: 200
         },
 
         onAdd: function (map) {

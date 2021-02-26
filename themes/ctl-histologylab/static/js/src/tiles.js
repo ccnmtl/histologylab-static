@@ -5,11 +5,12 @@ $(document).ready(function() {
         center: [0,0],
         zoom: 2,
         zoomControl: false,
-        zoomsliderControl: true,
-        panControl: false
+        panControl: false,
+        maxBounds: [[-90, -200], [90, 200]]
     });
 
     L.control.pan().addTo(map);
+    L.control.zoomslider().addTo(map);
 
     var slideId = $('#map').data('slide-id');
     var zoomMax = $('#map').data('zoom');
@@ -19,10 +20,6 @@ $(document).ready(function() {
     var southWest = L.latLng(-90, -200)
     var northEast = L.latLng(90, 200);
     var bounds = L.latLngBounds(southWest, northEast);
-
-    map.on('drag', function() {
-        map.panInsideBounds(bounds, { animate: false });
-    });
 
     var attribution = '&copy; Example attribution'
 
@@ -42,6 +39,7 @@ $(document).ready(function() {
         height: 200,
         width: 200,
         mapOptions: {
-            panControl: false
+            panControl: false,
+            maxBounds: [[-90, -200], [90, 200]]
         }}).addTo(map)
 });
