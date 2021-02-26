@@ -3,8 +3,13 @@
 $(document).ready(function() {
     var map = L.map('map', {
         center: [0,0],
-        zoom: 2
+        zoom: 2,
+        zoomControl: false,
+        zoomsliderControl: true,
+        panControl: false
     });
+
+    L.control.pan().addTo(map);
 
     var slideId = $('#map').data('slide-id');
     var zoomMax = $('#map').data('zoom');
@@ -35,8 +40,8 @@ $(document).ready(function() {
     new L.Control.MiniMap(smallLayer, {
         toggleDisplay: true,
         height: 200,
-        width: 200}).addTo(map)
-
-    L.control.pan().addTo(map);
-
+        width: 200,
+        mapOptions: {
+            panControl: false
+        }}).addTo(map)
 });
