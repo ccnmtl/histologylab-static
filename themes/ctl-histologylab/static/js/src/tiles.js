@@ -16,11 +16,6 @@ $(document).ready(function() {
     var zoomMax = $('#map').data('zoom');
     var slide_url_format = 'https://cuimc-it-path-test.s3.amazonaws.com/slide' + slideId + '/{z}/{y}/{x}.jpg';
 
-    //Sets bounds for dragging.
-    var southWest = L.latLng(-90, -200)
-    var northEast = L.latLng(90, 200);
-    var bounds = L.latLngBounds(southWest, northEast);
-
     var attribution = '&copy; Example attribution'
 
     L.tileLayer(slide_url_format, {
