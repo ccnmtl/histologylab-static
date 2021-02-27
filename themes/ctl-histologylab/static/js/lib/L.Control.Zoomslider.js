@@ -61,7 +61,7 @@
 
             setPosition: function (y) {
                 L.DomUtil.setPosition(this._element,
-									  L.point(0, this._adjust(y)));
+                    L.point(0, this._adjust(y)));
             },
 
             setValue: function (v) {
