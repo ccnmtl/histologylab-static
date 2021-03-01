@@ -49,7 +49,7 @@
             L.DomEvent
                 .on(link, 'click', L.DomEvent.stopPropagation)
                 .on(link, 'click', L.DomEvent.preventDefault)
-                .on(link, 'click', function(){ map.panBy(offset); }, map)
+                .on(link, 'click', function(){ map.panBy(offset, {animate: false}); }, map)
                 .on(link, 'dblclick', L.DomEvent.stopPropagation);
 
             return link;
