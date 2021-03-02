@@ -19,7 +19,7 @@ weight: 0
 
 <p>At low power examine bundles of skeletal muscle fibers and sheets of tendon (dense regular connective tissue). Under higher magnification, skeletal muscle fibers may be recognized by their cross-striations.  In this preparation most tendon has a homogenous, almost glassy, appearance (this is a diagnostic feature).  The cells of the tendon (fibroblasts or fibrocytes) occur in rows, squeezed between the thick collagenous fibers; only their flattened, rod-like basophilic nuclei show well.  The zone of insertion of the skeletal muscle into the tendon is obvious, but higher resolution with the electron microscope is necessary to see the detailed structure of the junction.</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/03.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_003.jpg" src="/assets/images/slide_003-thumb-170x143-1401.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/03.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide03/" target="_blank"><img alt="Thumbnail image for slide_003.jpg" src="/assets/images/slide_003-thumb-170x143-1401.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide03/" target="_blank">Open with WebViewer</a></div>
 
 <p>Define a sarcomere.  Be sure you know what the electron microscope has revealed about its fine structure.  Know the structural changes that occur in a sarcomere during contraction and the theory that has evolved from electron microscopic studies to explain muscle contraction.</p>
 
