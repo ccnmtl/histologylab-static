@@ -4,11 +4,11 @@ date: 2017-12-17
 type: page
 ---
 <div class="pagecontentbody">
-					
+
 <ol>
 <li>Kidney. Rat. Regaud iron hematoxylin stain for mitochondria.</li>
 <li>Epididymis. Rat. Silver-azocarmine stain for Golgi.</li>
-<li><a href="http://virtualslides.cumc.columbia.edu/03.svs/view.apml?">Muscle-tendon. Human or rabbit. <span class="caps">H&amp;E </span>and picric acid.</a></li>
+<li><a href="https://histologylab.ctl.columbia.edu/slides/slide03/">Muscle-tendon. Human or rabbit. <span class="caps">H&amp;E </span>and picric acid.</a></li>
 <li><a href="http://virtualslides.cumc.columbia.edu/04.svs/view.apml?">Skin	Monkey. <span class="caps">H&amp;E</span></a></li>
 <li><a href="http://virtualslides.cumc.columbia.edu/05.svs/view.apml?">Hyaline cartilage. Trachea. Human or guinea pig. <span class="caps">H&amp;E</span></a></li>
 <li><a href="http://virtualslides.cumc.columbia.edu/06.svs/view.apml?">Elastic cartilage. Dog or guinea pig ear. Weigert stain.</a></li>

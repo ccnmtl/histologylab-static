@@ -13,7 +13,7 @@ weight: 4
 
 <p><img src="/assets/images/3%20muscle%20and%20tendon.jpg" style="width:273px; height:140px; float:right;">The thick, collagenous bundles of the <u>tendon</u> run parallel to each other, slight waviness of the tissue is due to fixation. Rows of fibroblasts with heterochromatic nuclei are aligned between the collagenous bundles. Compare the appearance of the collagen bundles (Type I collagen) and fibroblasts with that of the skeletal muscle fibers on the same section.</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/03.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_003.jpg" src="/assets/images/slide_003-thumb-170x143-1401.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/03.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide03/" target="_blank"><img alt="Thumbnail image for slide_003.jpg" src="/assets/images/slide_003-thumb-170x143-1401.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide03/" target="_blank">Open with WebViewer</a></div>
 
 <h3><u>#11 Bone, rib (H&amp;E)</u></h3>
 
@@ -32,6 +32,6 @@ weight: 4
 <p><br clear="all"></p>
 
 <p> <img alt="collagen.jpg" src="/assets/images/collagen.jpg" width="700" class="mt-image-none"> </p>
-						
-						
+
+
 </div>

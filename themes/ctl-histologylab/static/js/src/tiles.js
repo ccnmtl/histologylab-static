@@ -14,7 +14,7 @@ $(document).ready(function() {
 
     var slideId = $('#map').data('slide-id');
     var zoomMax = $('#map').data('zoom');
-    var slide_url_format = 'https://cuimc-it-path-test.s3.amazonaws.com/slide' + slideId + '/{z}/{y}/{x}.jpg';
+    var slide_url_format = 'https://ctl-webslides-static-prod.s3.amazonaws.com/slide' + slideId + '/{z}/{y}/{x}.jpg';
 
     var attribution = '&copy; Example attribution'
 
