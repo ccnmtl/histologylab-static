@@ -15,7 +15,7 @@ weight: 0
 
 <p>With Masson's stain, the <u>acidophils</u> are red and the <u>basophils</u> are blue.  <u>Chromophobes</u> will be light orange or faded to grey.  Note that red blood cells may be anything from red to blue.  The cords and clumps of epithelial cells are sharply outlined by the blue collagenous fibers.  </p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/73.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_073.jpg" src="/assets/images/slide_073-thumb-170x143-1566.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/73.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide73/" target="_blank"><img alt="Thumbnail image for slide_073.jpg" src="/assets/images/slide_073-thumb-170x143-1566.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide73/" target="_blank">Open with WebViewer</a></div>
 
 <p><img src="/assets/images/73%20Pituitary.jpg" style="width:209px; height:150px; float:right;"><u>Note</u>: When using Masson's trichrome or chrome alum-hematoxylin phloxin, the terms acidophils and basophils do not have the same meaning as when you use hematoxylin-eosin.  The colors are dependent on the contents of the secretory granules.  Acidophils synthesize proteins including growth hormone (GH) and prolactin.  The basophils synthesize glycoproteins including luteinizing hormone (LH), follicle stimulating hormone (FSH), thyroid stimulating hormone (TSH) and adrenal cortical stimulating hormone (ACTH).  Each of the hormones is made by a different cell, except the gonadotropins (LH and <span class="caps">FSH</span>), which may be made by the same cell.   Chromophobes are thought to be cells in which the granules are depleted or are <span class="caps">ACTH </span>producing cells. The neuropil of the neurohypophysis is grayish and vacuolated.  The red-pink nuclei belong to pituicytes (glial cells) and endothelia.</p>
 
@@ -23,11 +23,11 @@ weight: 0
 
 <p>The red or blue staining of the secretory granules is due to the acidophilia or basophilia of the hormone contained in the granules.  The pars intermedia, which is not seen clearly on this slide, forms a cap around the neurohypophysis and separates it from the pars distalis.  What kinds of cells are in the neurohypophysis?</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/74.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_074.jpg" src="/assets/images/slide_074-thumb-170x143-1569.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/74.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide74/" target="_blank"><img alt="Thumbnail image for slide_074.jpg" src="/assets/images/slide_074-thumb-170x143-1569.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide74/" target="_blank">Open with WebViewer</a></div>
 
 <h3><u><b>#75 Pituitary, (Chrome-hematoxylin and Phloxin)</b></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/75.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_075.jpg" src="/assets/images/slide_075-thumb-170x143-1572.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/75.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide75/" target="_blank"><img alt="Thumbnail image for slide_075.jpg" src="/assets/images/slide_075-thumb-170x143-1572.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide75/" target="_blank">Open with WebViewer</a></div>
 
 Nuclei are purple-black, acidophils bright pink, basophils blue-black, chromophobes light blue to colorless. Note the regional variations in the distribution of the various cell types. Note also that in this pituitary there is a large colloid cyst (Rathke's pouch).<br>
 <div style="text-align: center;"><img src="/assets/images/75%20pituitary.jpg" style="width:557px; height:130px;"></div>

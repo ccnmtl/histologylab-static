@@ -21,13 +21,13 @@ weight: 1
 
 <p>Identify the vessels and structures discussed above.  Notice that a thin space is present between the endothelial cells lining the sinusoids and the parenchymal cells.  This is the <u>space of Disse</u>, and it is in continuity with the lumen of the sinusoids via small spaces between the endothelial cells that form the wall of the sinusoids.</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/45.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_045.jpg" src="/assets/images/slide_045-thumb-170x143-1488.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/45.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide45/" target="_blank"><img alt="Thumbnail image for slide_045.jpg" src="/assets/images/slide_045-thumb-170x143-1488.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide45/" target="_blank">Open with WebViewer</a></div>
 
 <h3><u>#47 Liver, Human (Phosphotungstic acid Hematoxylin - Phloxine)</u></h3>
 
 <p>This slide should be examined as above.  In addition, the <u>bile canaliculi</u> are revealed as delicate tubules that course between the apposed surfaces of the parenchymal cells.  These are seen best in regions where the plates of cells are two cells thick. </p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/47.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_047.jpg" src="/assets/images/slide_047-thumb-170x143-1494.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/47.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide47/" target="_blank"><img alt="Thumbnail image for slide_047.jpg" src="/assets/images/slide_047-thumb-170x143-1494.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide47/" target="_blank">Open with WebViewer</a></div>
 						
 						
 </div>

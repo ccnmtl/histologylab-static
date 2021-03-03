@@ -11,7 +11,7 @@ weight: 0
 
 <p>The tonsillar ring is located near the entrance of the throat and consists of the <u>palatine tonsil</u> (commonly known as "the tonsil"), the <u>pharyngeal tonsil</u> (commonly known as "adenoids"), and the <u>lingual tonsil</u> (on the posterior surface of the tongue).</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/27.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_027.jpg" src="/assets/images/slide_027-thumb-170x143-1455.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/27.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide27/" target="_blank"><img alt="Thumbnail image for slide_027.jpg" src="/assets/images/slide_027-thumb-170x143-1455.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide27/" target="_blank">Open with WebViewer</a></div>
 
 <p>This is a section through the palatine tonsil. Notice the stratified squamous non-keratinized epithelium covering the free oropharyngeal surface of the tonsil. In the underlying lamina propria, identify simple and branched <u>epithelial crypts</u>, sectioned in different planes and representing tubular invaginations of the surface epithelium. The lining epithelium of the crypts may show evidence of keratinization or erosion and can be obscured when heavily infiltrated with lymphocytes. </p>
 

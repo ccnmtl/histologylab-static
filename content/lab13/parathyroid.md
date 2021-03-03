@@ -13,7 +13,7 @@ weight: 3
 
 <p><img src="/assets/images/79%20parathyroid.jpg" style="width:274px; height:130px; float:right;">The majority of the cells with small centrally placed round nuclei and clear cytoplasm are <u>chief cells</u>. These produce <u>parathyroid hormone</u>. Large intensely eosinophilic <u>oxyphil cells</u> may be found interspersed or in nests among the chief cells. The function of the oxyphil cell is unknown. Review the typical endocrine arrangement of anastomosing cords of cells surrounded by sinusoidal capillaries.</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/79.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_079.jpg" src="/assets/images/slide_079-thumb-170x143-1581.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/79.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide79/" target="_blank"><img alt="Thumbnail image for slide_079.jpg" src="/assets/images/slide_079-thumb-170x143-1581.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide79/" target="_blank">Open with WebViewer</a></div>
 						
 						
 </div>

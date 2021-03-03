@@ -55,7 +55,7 @@ weight: 1
 
 <p>The textbook should be reviewed before an attempt is made to identify the precursor stages of myeloid differentiation on this slide. Begin by scanning the slide under low magnification. The most immediately obvious cell type will be the enormous megakaryocyte which gives rise to blood platelets. Choose an area of this slide where the cells are not too closely smeared to study the cells of the erythroid and granulocyte series.</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/82.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_082.jpg" src="/assets/images/slide_082-thumb-170x143-1590.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/82.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide82/" target="_blank"><img alt="Thumbnail image for slide_082.jpg" src="/assets/images/slide_082-thumb-170x143-1590.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide82/" target="_blank">Open with WebViewer</a></div>
 
 <p><u>The following points should be kept in mind when examining bone marrow smears: </u></p>
 
@@ -73,14 +73,14 @@ weight: 1
 
 <h3><u>#52, Bone marrow, core biopsy, <span class="caps">H&amp;E</span></u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/52.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_052.jpg" src="/assets/images/slide_052-thumb-170x143-1506.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/52.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide52/" target="_blank"><img alt="Thumbnail image for slide_052.jpg" src="/assets/images/slide_052-thumb-170x143-1506.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide52/" target="_blank">Open with WebViewer</a></div>
 This is a bone marrow core biopsy. Note the spicules of bone and intervening marrow. The marrow is approximately 60-70% cells and 30-40% fat. Note the conspicuous megakaryocytes and areas of erythroid and myeloid development.
 
 <h3><u>#14, Bone marrow, section, Rabbit (Giemsa)</u></h3>
 
 <p>Like the section of human bone marrow, this also reveals the natural relationship of developing blood cells to one another and to sinusoids. Note the megakaryocytes and the developing red and white blood cells. The cells of the erythroid and myeloid series tend to be grouped in small foci and that within each group the cells tend to be at the same stage of development. Variable amounts of adipose tissue are present.</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/14.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_014.jpg" src="/assets/images/slide_014-thumb-170x143-1425.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/14.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide14/" target="_blank"><img alt="Thumbnail image for slide_014.jpg" src="/assets/images/slide_014-thumb-170x143-1425.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide14/" target="_blank">Open with WebViewer</a></div>
 						
 						
 </div>

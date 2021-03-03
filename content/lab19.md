@@ -16,7 +16,7 @@ weight: 19
 
 <h3>#120 Ear, cochlea and vestibule</h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/120.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_120.jpg" src="/assets/images/slide_120-thumb-170x143-1674.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/120.svs/view.apml?" target="_blank">Open with WebViewer</a> </div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide120/" target="_blank"><img alt="Thumbnail image for slide_120.jpg" src="/assets/images/slide_120-thumb-170x143-1674.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide120/" target="_blank">Open with WebViewer</a> </div>
 
 <p>The ear presents some difficulties not encountered in previous slides.  First, the sections are celloidin rather than paraffin and so are rather thick (about 20 mm), and second, the cochlea is a coiled structure and so is always sectioned repeatedly and often oddly.  To get the most from the slide proceed as follows:</p>
 

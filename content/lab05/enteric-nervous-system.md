@@ -13,7 +13,7 @@ weight: 3
 
 <p><img src="/assets/images/39%20colon%20%282%29.jpg" style="width:241px; height:140px; float:right;">At low power locate the pink (acidophilic) region of the smooth muscle.  The <u>myenteric plexus of Auerbach</u> is located between the two layers of smooth muscle.  Locate neuronal cell bodies within the ganglia.  What other types of cell would you expect to find in these ganglia?</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/39.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_039.jpg" src="/assets/images/slide_039-thumb-170x143-1479.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/39.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide39/" target="_blank"><img alt="Thumbnail image for slide_039.jpg" src="/assets/images/slide_039-thumb-170x143-1479.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide39/" target="_blank">Open with WebViewer</a></div>
 						
 						
 </div>
