@@ -11,30 +11,4 @@
 @import 'base/base';
 @import 'layouts/nav';
 @import 'layouts/search';
-
-#map {
-    height: 800px;
-    position: relative;
-    background: black;
-}
-
-#map:focus {
-    -webkit-box-shadow:0 0 10px purple;
-    -moz-box-shadow: 0 0 10px purple;
-    box-shadow:0 0 10px purple;
-}
-
-.leaflet-container a {
-    color: #2c4955 !important;
-}
-
-.leaflet-control-zoomslider-body {
-    width: 20px !important;
-}
-
-.leaflet-control-zoomslider .leaflet-control {
-    margin-left: 10px !important;
-}
-.leaflet-control-pan {
-    margin-left: 15px !important;
-}
+@import 'layouts/slideviewer';
