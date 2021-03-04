@@ -13,7 +13,7 @@ weight: 1
 
 <p>Within the lamina propria identify <u>lymphatic nodules</u> and note germinal centers of the active antigenic response.</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/117.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_117.jpg" src="/assets/images/slide_117-thumb-170x143-1665.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/117.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide117/" target="_blank"><img alt="Thumbnail image for slide_117.jpg" src="/assets/images/slide_117-thumb-170x143-1665.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide117/" target="_blank">Open with WebViewer</a></div>
 						
 						
 </div>

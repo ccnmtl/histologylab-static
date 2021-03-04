@@ -13,7 +13,7 @@ weight: 0
 
 <p><img src="/assets/images/85%20spinal%20cord%20cross%20section%20nissl%20stain.jpg" style="width:136px; height:150px; float:right;">At low power identify the centrally located butterfly or H-shaped arrangements of the <u>gray matter</u>. Identify the white and gray matter, and the dorsal (posterior) and ventral (anterior) horns of the gray matter. How is the structure of the dorsal side of the spinal cord different from the ventral side?</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/85.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_085.jpg" src="/assets/images/slide_085-thumb-170x143-1599.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/85.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide85/" target="_blank"><img alt="Thumbnail image for slide_085.jpg" src="/assets/images/slide_085-thumb-170x143-1599.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide85/" target="_blank">Open with WebViewer</a></div>
 
 <p>With medium magnification, identify the cell bodies of the large motor neurons in the anterior horn of the gray matter.  Identify the basophilic <u>Nissl substance</u>.  To what structures at the electron microscopic level do the Nissl bodies correspond?</p>
 
@@ -23,7 +23,7 @@ weight: 0
 
 <h3><u>#84 Spinal Cord, Cross Section (Cajal's silver)</u></h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/84.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_084.jpg" src="/assets/images/slide_084-thumb-170x143-1596.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/84.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide84/" target="_blank"><img alt="Thumbnail image for slide_084.jpg" src="/assets/images/slide_084-thumb-170x143-1596.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide84/" target="_blank">Open with WebViewer</a></div>
 
 At low power identify the centrally located butterfly-shaped arrangement of the <u>gray matter</u>. Within the gray matter, locate the <u>cell bodies</u> of neurons and the associated dendrites and axons. Surrounding the gray matter is the paler staining white matter and the supporting cells (oligodendroglia and others). In the gray matter, note the size and shape of the cell body of the neurons, particularly those in the anterior (ventral) horn. <br>
 <div style="text-align: center;">

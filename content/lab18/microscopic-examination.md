@@ -9,7 +9,7 @@ weight: 1
 <div class="entrybody">
 <h3>#119. Eye, sagittal section</h3>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/119.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_119.jpg" src="/assets/images/slide_119-thumb-170x142-1671.jpg" width="170" height="142" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/119.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide119/" target="_blank"><img alt="Thumbnail image for slide_119.jpg" src="/assets/images/slide_119-thumb-170x142-1671.jpg" width="170" height="142" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide119/" target="_blank">Open with WebViewer</a></div>
 
 <ol type="A" style="clear:both;">
 <li><strong>Overview:</strong> <strong>The Layers Of The Eye:  Corneosclera, Uvea, Retina</strong></li>

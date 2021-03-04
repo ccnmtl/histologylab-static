@@ -15,7 +15,7 @@ weight: 2
 
 <p>The epithelium of the skin is known as the epidermis.  Its superficial layer is comprised of keratinized (cornified) squamous cells.  Note the multiple layers of the stratified squamous epithelial layer of the skin. As cells are displaced toward the skin surface their characteristics change. They ultimately die and are sloughed. This topmost keratinized layer stains dark pink and has no nuclei because the cells are dead.   </p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/04.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_004.jpg" src="/assets/images/slide_004-thumb-170x143-1404.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/04.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide04/" target="_blank"><img alt="Thumbnail image for slide_004.jpg" src="/assets/images/slide_004-thumb-170x143-1404.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide04/" target="_blank">Open with WebViewer</a></div>
 
 <h3>Stratified squamous nonkeratinized epithelium</h3>
 
@@ -23,7 +23,7 @@ weight: 2
 
 <p><img src="/assets/images/33%20esophagus.jpg" style="width:103px; height:150px; float:right;">The stratified squamous epithelium lining the esophagus is non-keratinized in humans, but keratinized in some other species. Which part of the slide image corresponds to the esophageal lumen?</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/33.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_033.jpg" src="/assets/images/slide_033-thumb-170x143-1467.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/33.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide33/" target="_blank"><img alt="Thumbnail image for slide_033.jpg" src="/assets/images/slide_033-thumb-170x143-1467.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide33/" target="_blank">Open with WebViewer</a></div>
 						
 						
 </div>

@@ -19,7 +19,7 @@ weight: 4
 
 <p>Find the regions of the dense fibrous regularly arranged connective tissue (tendon). Collagen is stained pink and can be distinguished from skeletal muscle that is stained purple. Note the fibroblasts aligned along the collagen fibers in the tendon. These are flattened cells with heterochromatic nuclei.<br clear="all"></p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/11.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_011.jpg" src="/assets/images/slide_011-thumb-170x143-1419.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/11.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide11/" target="_blank"><img alt="Thumbnail image for slide_011.jpg" src="/assets/images/slide_011-thumb-170x143-1419.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide11/" target="_blank">Open with WebViewer</a></div>
 
 <h2>Elastic</h2>
 
@@ -27,7 +27,7 @@ weight: 4
 
 <p>The fibers are predominantly elastic rather than collagenous. Elastic fibers stain reddish-brown to black and form prominent fenestrated, elastic sheets in the aorta.</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/20.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_020.jpg" src="/assets/images/slide_020-thumb-170x143-1440.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/20.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide20/" target="_blank"><img alt="Thumbnail image for slide_020.jpg" src="/assets/images/slide_020-thumb-170x143-1440.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide20/" target="_blank">Open with WebViewer</a></div>
 
 <p><br clear="all"></p>
 

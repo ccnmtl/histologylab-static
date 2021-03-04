@@ -13,7 +13,7 @@ weight: 2
 
 <p><img src="/assets/images/78%20thyroid%20follicles.jpg" style="width:154px; height:150px; float:right;">The thyroid cells are arranged in follicles with hormone-producing cells surrounding a cavity, which is filled with a <u>colloid</u>. The follicles are of various sizes. Observe the relationship of blood vessels to the follicles. The height of the lining follicular epithelial cells reflects the functional state of the follicle. Columnar epithelium is more active than squamous epithelium. Parafollicular cells are found interspersed within the follicular epithelium and in clusters between follicles.</p>
 
-<div class="thumbnail"> <a href="http://virtualslides.cumc.columbia.edu/78.svs/view.apml?" target="_blank"><img alt="Thumbnail image for slide_078.jpg" src="/assets/images/slide_078-thumb-170x143-1578.jpg" width="170" height="143" class="mt-image-left"></a><a href="http://virtualslides.cumc.columbia.edu/78.svs/view.apml?" target="_blank">Open with WebViewer</a></div>
+<div class="thumbnail"> <a href="https://histologylab.ctl.columbia.edu/slides/slide78/" target="_blank"><img alt="Thumbnail image for slide_078.jpg" src="/assets/images/slide_078-thumb-170x143-1578.jpg" width="170" height="143" class="mt-image-left"></a><a href="https://histologylab.ctl.columbia.edu/slides/slide78/" target="_blank">Open with WebViewer</a></div>
 						
 						
 </div>
