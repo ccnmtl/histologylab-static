@@ -41,6 +41,14 @@
 
 <body itemscope itemtype="http://schema.org/WebPage"{{ if .IsPage }} class="{{ .Type }}"{{ end }}>
 
+ {{ if eq .Type "slides" }}
+    <a class="sr-only sr-only-focusable" href="#map">
+      <div class="container">
+        <span class="skiplink-text">Skip to main content</span>
+      </div>
+    </a>
+ {{ end }}
+
  <div id="maincontent" role="main" class="container">
 
  {{ partial "navbar.html" . }}
