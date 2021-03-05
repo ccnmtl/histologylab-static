@@ -3,6 +3,6 @@ title: "Virtual Slides"
 date: 2021-02-17
 type: slides
 weight:
-slideId: 06
+slideId: '06'
 zoomMax: 7
 ---
