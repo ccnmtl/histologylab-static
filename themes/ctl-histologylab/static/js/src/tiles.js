@@ -14,7 +14,7 @@ $(document).ready(function() {
 
     var slideId = $('#map').data('slide-id');
     var zoomMax = $('#map').data('zoom');
-    var slide_url_format = 'https://ctl-webslides-static-prod.s3.amazonaws.com/slide' + slideId + '/{z}/{y}/{x}.jpg';
+    var slide_url_format = 'http://localhost:8000/' + '/{z}/{y}/{x}.jpg';
 
     var attribution = '&copy; Example attribution'
 
@@ -24,11 +24,26 @@ $(document).ready(function() {
         attribution: attribution
     }).addTo(map);
 
+    L.Control.textbox = L.Control.extend({
+		onAdd: function(map) {
+
+		var text = L.DomUtil.create('div');
+		text.id = "info_text";
+		text.innerHTML = "Magnification: 40x"
+		return text;
+		},
+
+		onRemove: function(map) {
+			// Nothing to do here
+		}
+	});
+	L.control.textbox = function(opts) { return new L.Control.textbox(opts);}
+	L.control.textbox({ position: 'topleft' }).addTo(map);
+
     var smallLayer = L.tileLayer(slide_url_format, {
         minZoom: 1,
         maxZoom: zoomMax
     })
-
     new L.Control.MiniMap(smallLayer, {
         toggleDisplay: true,
         height: 200,
@@ -38,3 +53,5 @@ $(document).ready(function() {
             maxBounds: [[-90, -200], [90, 200]]
         }}).addTo(map)
 });
+
+    //$("#info_text")[0].innerHTML = 'new text'

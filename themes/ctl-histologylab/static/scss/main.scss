@@ -12,3 +12,10 @@
 @import 'layouts/nav';
 @import 'layouts/search';
 @import 'layouts/slideviewer';
+
+#info_text {
+    color: white;
+    background-color: grey;
+    padding-left: 5px;
+    padding-right: 5px;
+}
