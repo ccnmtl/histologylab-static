@@ -29,7 +29,7 @@ $(document).ready(function() {
 
 		var text = L.DomUtil.create('div');
 		text.id = "info_text";
-		text.innerHTML = "Magnification: 1x"
+		text.innerHTML = "Magnification: Fit"
 		return text;
 		},
 
@@ -53,169 +53,86 @@ $(document).ready(function() {
             maxBounds: [[-90, -200], [90, 200]]
         }}).addTo(map)
 
+    //Magnification badge changes on zoomend. Magnification is determined by
+    //Math.round(total magnificaton / zoomMax level = 1 zoom level)
     map.on('zoomend', function () {
         var zoomLevel = map.getZoom();
         var mag = $("#info_text")[0];
+
+        //If slides have a max magnification of 100x
         if (slideId === 12 || slideId === 82) {
             if (zoomMax === 8) {
-                switch (zoomLevel) {
-                    case 2:
-                        mag.innerHTML = 'Magnification: 25x'
-                        break;
-                    case 3:
-                        mag.innerHTML = 'Magnification: 40x'
-                        break;
-                    case 4:
-                        mag.innerHTML = 'Magnification: 50x'
-                        break;
-                    case 5:
-                        mag.innerHTML = 'Magnification: 60x'
-                        break;
-                    case 6:
-                        mag.innerHTML = 'Magnification: 75x'
-                        break;
-                    case 7:
-                        mag.innerHTML = 'Magnification: 85x'
-                        break;
-                    case 8:
-                        mag.innerHTML = 'Magnification: 100x'
-                        break;
-                    default:
-                        mag.innerHTML = 'Magnification: 25x'
+                var zoomLevel8 = {
+                    2: 'Magnification: 25x',
+                    3: 'Magnification: 40x',
+                    4: 'Magnification: 50x',
+                    5: 'Magnification: 60x',
+                    6: 'Magnification: 75x',
+                    7: 'Magnification: 85x',
+                    8: 'Magnification: 100x'
                 }
+                return mag.innerHTML = zoomLevel8[zoomLevel]
             }
             else if (zoomMax === 9) {
-                switch (zoomLevel) {
-                    case 2:
-                        mag.innerHTML = 'Magnification: 10x'
-                        break;
-                    case 3:
-                        mag.innerHTML = 'Magnification: 20x'
-                        break;
-                    case 4:
-                        mag.innerHTML = 'Magnification: 35x'
-                        break;
-                    case 5:
-                        mag.innerHTML = 'Magnification: 45x'
-                        break;
-                    case 6:
-                        mag.innerHTML = 'Magnification: 60x'
-                        break;
-                    case 7:
-                        mag.innerHTML = 'Magnification: 75x'
-                        break;
-                    case 8:
-                        mag.innerHTML = 'Magnification: 90x'
-                        break;
-                    case 9:
-                        mag.innerHTML = 'Magnification: 100x'
-                        break;
-                    default:
-                        mag.innerHTML = 'Magnification: 10x'
+                var zoomLevel9 = {
+                    2: 'Magnification: 10x',
+                    3: 'Magnification: 20x',
+                    4: 'Magnification: 35x',
+                    5: 'Magnification: 45x',
+                    6: 'Magnification: 60x',
+                    7: 'Magnification: 75x',
+                    8: 'Magnification: 90x',
+                    9: 'Magnification: 100x'
                 }
+                return mag.innerHTML = zoomLevel9[zoomLevel]
             }
         } else {
+            //The rest have a standard max magnificaton of 40x
             if (zoomMax === 6) {
-                switch (zoomLevel) {
-                    case 2:
-                        mag.innerHTML = 'Magnification: 1x'
-                        break;
-                    case 3:
-                        mag.innerHTML = 'Magnification: 8x'
-                        break;
-                    case 4:
-                        mag.innerHTML = 'Magnification: 10x'
-                        break;
-                    case 5:
-                        mag.innerHTML = 'Magnification: 20x'
-                        break;
-                    case 6:
-                        mag.innerHTML = 'Magnification: 40x'
-                        break;
-                    default:
-                        mag.innerHTML = 'Magnification: 1x'
+                var zoomLevel6 = {
+                    2: 'Magnification: 15x',
+                    3: 'Magnification: 22x',
+                    4: 'Magnification: 30x',
+                    5: 'Magnification: 35x',
+                    6: 'Magnification: 40x',
                 }
+                return mag.innerHTML = zoomLevel6[zoomLevel]
             }
             else if (zoomMax === 7) {
-                switch (zoomLevel) {
-                    case 2:
-                        mag.innerHTML = 'Magnification: 1x'
-                        break;
-                    case 3:
-                        mag.innerHTML = 'Magnification: 4x'
-                        break;
-                    case 4:
-                        mag.innerHTML = 'Magnification: 8x'
-                        break;
-                    case 5:
-                        mag.innerHTML = 'Magnification: 10x'
-                        break;
-                    case 6:
-                        mag.innerHTML = 'Magnification: 20x'
-                        break;
-                    case 7:
-                        mag.innerHTML = 'Magnification: 40x'
-                        break;
-                    default:
-                        mag.innerHTML = 'Magnification: 1x'
-                }
+                    var zoomLevel7 = {
+                        2: 'Magnification: 10x',
+                        3: 'Magnification: 15x',
+                        4: 'Magnification: 20x',
+                        5: 'Magnification: 25x',
+                        6: 'Magnification: 30x',
+                        7: 'Magnification: 40x'
+                    }
+                    return mag.innerHTML = zoomLevel7[zoomLevel]
             }
             else if (zoomMax === 8) {
-                switch (zoomLevel) {
-                    case 2:
-                        mag.innerHTML = 'Magnification: 10x'
-                        break;
-                    case 3:
-                        mag.innerHTML = 'Magnification: 15x'
-                        break;
-                    case 4:
-                        mag.innerHTML = 'Magnification: 20x'
-                        break;
-                    case 5:
-                        mag.innerHTML = 'Magnification: 25x'
-                        break;
-                    case 6:
-                        mag.innerHTML = 'Magnification: 30x'
-                        break;
-                    case 7:
-                        mag.innerHTML = 'Magnification: 35x'
-                        break;
-                    case 8:
-                        mag.innerHTML = 'Magnification: 40x'
-                        break;
-                    default:
-                        mag.innerHTML = 'Magnification: 1x'
+                var zoomLevel8 = {
+                    2: 'Magnification: 10x',
+                    3: 'Magnification: 15x',
+                    4: 'Magnification: 20x',
+                    5: 'Magnification: 25x',
+                    6: 'Magnification: 30x',
+                    7: 'Magnification: 35x',
+                    8: 'Magnification: 40x'
                 }
+                return mag.innerHTML = zoomLevel8[zoomLevel]
             }
             else if (zoomMax === 9) {
-                switch (zoomLevel) {
-                    case 2:
-                        mag.innerHTML = 'Magnification: 9x'
-                        break;
-                    case 3:
-                        mag.innerHTML = 'Magnification: 14x'
-                        break;
-                    case 4:
-                        mag.innerHTML = 'Magnification: 18x'
-                        break;
-                    case 5:
-                        mag.innerHTML = 'Magnification: 23x'
-                        break;
-                    case 6:
-                        mag.innerHTML = 'Magnification: 27x'
-                        break;
-                    case 7:
-                        mag.innerHTML = 'Magnification: 32x'
-                        break;
-                    case 8:
-                        mag.innerHTML = 'Magnification: 36x'
-                        break;
-                    case 9:
-                        mag.innerHTML = 'Magnification: 40x'
-                        break;
-                    default:
-                        mag.innerHTML = 'Magnification: 1x'
+                var zoomLevel9 = {
+                    2: 'Magnification: 9x',
+                    3: 'Magnification: 14x',
+                    4: 'Magnification: 18x',
+                    5: 'Magnification: 23x',
+                    6: 'Magnification: 27x',
+                    7: 'Magnification: 32x',
+                    8: 'Magnification: 36x',
+                    9: 'Magnification: 40x'
                 }
+                return mag.innerHTML = zoomLevel9[zoomLevel]
             }
         }
     })
