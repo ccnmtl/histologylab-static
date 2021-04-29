@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 54
 zoomMax: 8
+slideTitle: Urinary bladder. Human. H&E.
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 98
 zoomMax: 8
+slideTitle: Placenta, 2 1/2 months. H&E.
 ---

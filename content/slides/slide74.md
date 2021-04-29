@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 74
 zoomMax: 8
+slideTitle: Pituitary gland. Human. H&E.
 ---

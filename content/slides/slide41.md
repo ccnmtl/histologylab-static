@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 41
 zoomMax: 8
+slideTitle: Sublingual gland. Human. H&E.
 ---

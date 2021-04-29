@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 49
 zoomMax: 8
+slideTitle: Kidney. Human. H&E.
 ---

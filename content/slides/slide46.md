@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 46
 zoomMax: 8
+slideTitle: Skin. Human. H&E.
 ---

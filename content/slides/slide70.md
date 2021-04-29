@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 70
 zoomMax: 8
+slideTitle: Mammary gland (inactive). Human. H&E.
 ---

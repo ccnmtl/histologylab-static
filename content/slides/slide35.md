@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 35
 zoomMax: 8
+slideTitle: Stomach-duodenum. Human or monkey. H&E.
 ---

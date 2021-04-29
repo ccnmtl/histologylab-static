@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 95
 zoomMax: 9
+slideTitle: Finger. Monkey, 4 months. H&E.
 ---

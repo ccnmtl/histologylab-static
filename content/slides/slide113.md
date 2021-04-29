@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 113
 zoomMax: 6
+slideTitle: Artery, vein, nerve. Primate. H&E
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 47
 zoomMax: 8
+slideTitle: Liver. Human. Phosphotungstic acid - hematoxylin-phloxine.
 ---

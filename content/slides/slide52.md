@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 52
 zoomMax: 8
+slideTitle: Bone marrow. Human, section. H&E
 ---

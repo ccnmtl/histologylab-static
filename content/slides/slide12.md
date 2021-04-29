@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 12
 zoomMax: 9
+slideTitle: Peripheral blood smear. Human. Wright's stain.
 ---

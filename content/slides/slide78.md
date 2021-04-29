@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 78
 zoomMax: 8
+slideTitle: Thyroid. Human. H&E.
 ---

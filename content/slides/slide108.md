@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 108
 zoomMax: 8
+slideTitle: Cerebral Cortex. Cat. Nissl.
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 40
 zoomMax: 8
+slideTitle: Parotid gland. Monkey, rabbit or monkey. H&E.
 ---

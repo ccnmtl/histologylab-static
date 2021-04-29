@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 106
 zoomMax: 9
+slideTitle: Appendix. Human. H&E (scanned only)
 ---

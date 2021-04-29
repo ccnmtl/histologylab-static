@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 50
 zoomMax: 8
+slideTitle: Kidney. Guinea pig. H&E.
 ---

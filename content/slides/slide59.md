@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 59
 zoomMax: 9
+slideTitle: Prostate. Human. Masson and H&E
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 24
 zoomMax: 8
+slideTitle: Lymph node. Lymph-vascular injection. India ink. Cat. H&E.
 ---

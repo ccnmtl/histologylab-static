@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 17
 zoomMax: 9
+slideTitle: Heart with mitral valve. Monkey. Mallory azan stain.
 ---

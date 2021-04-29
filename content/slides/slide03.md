@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: '03'
 zoomMax: 8
+slideTitle: Muscle and Tendon, Human, H&E
 ---

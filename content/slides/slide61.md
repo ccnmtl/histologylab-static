@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 61
 zoomMax: 8
+slideTitle: Ovary. Monkey, adult. H&E.
 ---

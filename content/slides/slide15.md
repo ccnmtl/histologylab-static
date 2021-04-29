@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 15
 zoomMax: 8
+slideTitle: Skeletal muscle (Phosphotungstic Acid - Hematoxylin, PTAH
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 63
 zoomMax: 9
+slideTitle: Ovary with corpus luteum of pregnancy (early). Human. H&E.
 ---

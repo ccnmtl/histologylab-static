@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 19
 zoomMax: 8
+slideTitle: Heart, ventricle. Calf. Phosphotungstic acid - hematoxylin.
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 79
 zoomMax: 7
+slideTitle: Parathyroid. Dog. H&E.
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 80
 zoomMax: 9
+slideTitle: Sciatic nerve (X.S. & L.S.). Monkey. Cajal.
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 27
 zoomMax: 8
+slideTitle: Palatine tonsil. Human. H&E.
 ---

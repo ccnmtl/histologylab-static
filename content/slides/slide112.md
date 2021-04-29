@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 112
 zoomMax: 7
+slideTitle: Whitefish embryo - Mitosis
 ---
