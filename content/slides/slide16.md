@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 16
 zoomMax: 8
+slideTitle: Aorta. Monkey. H&E
 ---

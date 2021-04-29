@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 31
 zoomMax: 8
+slideTitle: Lymph node. hematoxylin and Azure II eosin.
 ---

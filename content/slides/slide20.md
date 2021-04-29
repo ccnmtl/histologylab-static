@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 20
 zoomMax: 6
+slideTitle: Aorta. Rabbit. Weigert stain
 ---

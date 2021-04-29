@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 26
 zoomMax: 8
+slideTitle: Thymus. Child or rabbit. H&E
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 11
 zoomMax: 9
+slideTitle: Bone, rib (H&E)
 ---

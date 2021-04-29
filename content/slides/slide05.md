@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: '05'
 zoomMax: 9
+slideTitle: Hyaline cartilage. Trachea. Human or guinea pig. H&E
 ---

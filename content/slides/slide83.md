@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 83
 zoomMax: 8
+slideTitle: Sympathetic or Gasserian ganglion. Human. H&E.
 ---

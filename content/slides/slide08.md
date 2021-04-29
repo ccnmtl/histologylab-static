@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: '08'
 zoomMax: 8
+slideTitle: Rib and cartilage. Human or guinea pig. H&E
 ---

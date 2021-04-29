@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 101
 zoomMax: 9
+slideTitle: Small Intestine. Guinea Pig. PAS & Hematoxylin.
 ---

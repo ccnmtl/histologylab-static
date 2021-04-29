@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 88
 zoomMax: 9
+slideTitle: Trachea and Esophagus. H&E.
 ---

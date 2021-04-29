@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 57
 zoomMax: 9
+slideTitle: Testis and epididymis. Monkey or rabbit. H&E.
 ---

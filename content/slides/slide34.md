@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 34
 zoomMax: 9
+slideTitle: Stomach, body. Monkey. H&E.
 ---

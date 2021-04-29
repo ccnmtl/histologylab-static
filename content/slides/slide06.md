@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: '06'
 zoomMax: 7
+slideTitle: Elastic cartilage. Dog or guinea pig ear. Weigert stain.
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 84
 zoomMax: 7
+slideTitle: Spinal cord. Monkey. Cajal's silver.
 ---

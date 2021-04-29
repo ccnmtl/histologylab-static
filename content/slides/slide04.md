@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: '04'
 zoomMax: 8
+slideTitle: Skin Monkey. H&E
 ---

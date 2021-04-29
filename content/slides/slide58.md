@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 58
 zoomMax: 7
+slideTitle: Ductus deferens. H&E or Masson trichrome.
 ---

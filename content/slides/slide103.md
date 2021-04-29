@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 103
 zoomMax: 8
+slideTitle: Kidney. Guinea Pig. PAS & Hematoxylin.
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 89
 zoomMax: 9
+slideTitle: Lung. H&E.
 ---

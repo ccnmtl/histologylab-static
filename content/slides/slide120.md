@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 120
 zoomMax: 8
+slideTitle: Ear, cochlea and vestibule
 ---

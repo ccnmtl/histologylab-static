@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 76
 zoomMax: 7
+slideTitle: Spleen. Monkey. H&E (1.5 micron plastic section).
 ---

@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 100
 zoomMax: 9
+slideTitle: Placenta, 6 months. Human. H&E.
 ---

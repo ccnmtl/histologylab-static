@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 33
 zoomMax: 9
+slideTitle: Esophagus and stomach. Human or rabbit. H&E.
 ---

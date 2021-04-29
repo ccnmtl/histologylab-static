@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 96
 zoomMax: 8
+slideTitle: Epiphyseal Growth Plate. Rabbit. H&E.
 ---

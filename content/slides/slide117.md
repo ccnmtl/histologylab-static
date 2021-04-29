@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 117
 zoomMax: 9
+slideTitle: Small intestine, Human, H&E
 ---

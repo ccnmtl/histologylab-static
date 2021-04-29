@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 55
 zoomMax: 8
+slideTitle: Corpus spongiosum. Human or rabbit. H&E.
 ---

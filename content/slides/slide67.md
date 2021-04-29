@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 67
 zoomMax: 9
+slideTitle: Cervix uteri. Human. H&E.
 ---

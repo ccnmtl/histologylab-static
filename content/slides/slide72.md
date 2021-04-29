@@ -5,4 +5,5 @@ type: slides
 weight:
 slideId: 72
 zoomMax: 7
+slideTitle: Adrenal, bichromate fixation
 ---
