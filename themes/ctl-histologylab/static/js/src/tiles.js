@@ -19,7 +19,7 @@ $(document).ready(function() {
     var attribution = '&copy; Columbia University Department of Pathology and Cell Biology'
 
     L.tileLayer(slide_url_format, {
-        minZoom: 2,
+        minZoom: 1,
         maxZoom:zoomMax,
         attribution: attribution
     }).addTo(map);
@@ -29,7 +29,7 @@ $(document).ready(function() {
 
 		var text = L.DomUtil.create('div');
 		text.id = "info_text";
-		text.innerHTML = "Magnification: Fit"
+		text.innerHTML = "Fit to Screen"
 		return text;
 		},
 
@@ -63,6 +63,7 @@ $(document).ready(function() {
         if (slideId === 12 || slideId === 82) {
             if (zoomMax === 8) {
                 var zoomLevel8 = {
+                    1: 'Magnification: 12x',
                     2: 'Magnification: 25x',
                     3: 'Magnification: 40x',
                     4: 'Magnification: 50x',
@@ -75,6 +76,7 @@ $(document).ready(function() {
             }
             else if (zoomMax === 9) {
                 var zoomLevel9 = {
+                    1: 'Magnification: 5x',
                     2: 'Magnification: 10x',
                     3: 'Magnification: 20x',
                     4: 'Magnification: 35x',
@@ -90,6 +92,7 @@ $(document).ready(function() {
             //The rest have a standard max magnificaton of 40x
             if (zoomMax === 6) {
                 var zoomLevel6 = {
+                    1: 'Magnification: 7x',
                     2: 'Magnification: 15x',
                     3: 'Magnification: 22x',
                     4: 'Magnification: 30x',
@@ -100,6 +103,7 @@ $(document).ready(function() {
             }
             else if (zoomMax === 7) {
                     var zoomLevel7 = {
+                        1: 'Magnification: 5x',
                         2: 'Magnification: 10x',
                         3: 'Magnification: 15x',
                         4: 'Magnification: 20x',
@@ -111,6 +115,7 @@ $(document).ready(function() {
             }
             else if (zoomMax === 8) {
                 var zoomLevel8 = {
+                    1: 'Magnification: 5x',
                     2: 'Magnification: 10x',
                     3: 'Magnification: 15x',
                     4: 'Magnification: 20x',
@@ -123,6 +128,7 @@ $(document).ready(function() {
             }
             else if (zoomMax === 9) {
                 var zoomLevel9 = {
+                    1: 'Magnification: 5x',
                     2: 'Magnification: 9x',
                     3: 'Magnification: 14x',
                     4: 'Magnification: 18x',
