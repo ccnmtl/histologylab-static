@@ -2,7 +2,7 @@ baseURL = "https://histologylab.ctl.columbia.edu/"
 languageCode = "en-us"
 title = "Histology Lab Manual"
 theme = "ctl-histologylab"
-googleAnalytics = "UA-51144540-15"
+googleAnalytics = "G-95YRSYPN9N"
 
 [outputs]
   home = ["HTML","RSS", "JSON"]
